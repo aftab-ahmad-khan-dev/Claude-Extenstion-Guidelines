@@ -193,6 +193,20 @@ Growth focus:
 Every post should attract the exact people who have problems and budget or willingness to pay for custom solutions.
 Consistency plus precision grows the right audience fast.
 
+**Image Footprint Removal Rule (Mandatory for All Visuals)**
+
+Every image used in posts, carousels, profile, banners, or any other content must have AI generation footprints removed or strongly reduced so the image appears natural and is harder to detect or crawl as AI-created.
+
+Required actions before using any image:
+1. Remove all metadata (EXIF, XMP, and any AI generation tags or tool signatures).
+2. Eliminate visible AI artifacts (unnatural skin, hands, text, edges, lighting, or repetitive patterns).
+3. Add natural human variation (slight noise, subtle grain, or minor imperfections).
+4. Make small manual adjustments to color, contrast, or composition.
+5. Avoid detectable AI signatures, watermarks, tool logos, or generation credits.
+6. Final check: The image should look like it could have been created or edited by a human designer.
+
+Never publish an image that still clearly carries AI generation footprints.
+
 ---
 
 ### Section 9: Engagement Rules
@@ -286,6 +300,7 @@ Before creating any content:
 6. Confirm the full client acquisition and project grabbing sequence is respected.
 7. Confirm the standard is extreme quality aimed at the highest possible conversion rate.
 8. Confirm SSI is monitored with the Embers tool and official LinkedIn SSI page, and fixed according to the system above.
+9. Confirm all images follow the Image Footprint Removal Rule.
 
 When the user asks for profile text, posts, comments, connection notes, DMs, or strategy, generate them following every rule in this file.
 
