@@ -69,12 +69,6 @@ Research Sources Claude Must Use:
 - Quora
 - Recent buyer problems discussed publicly
 
-Example direction (Claude must research fresh each time):
-- Bug fixing: specific error types, platform + "bug fix", "fix after update", "module addition"
-- Full stack: "custom web app", "PWA development", "healthcare web app", niche + "full stack"
-- QA & DevOps: "CI/CD setup", "automated testing", "deployment pipeline"
-- WordPress & Shopify: "shopify speed optimization", "wordpress plugin conflict fix", "shopify custom feature", "wordpress to shopify migration"
-
 Always verify current saturation on Fiverr before locking keywords.
 
 ---
@@ -117,16 +111,28 @@ Use 5 researched low to medium saturation keywords only.
 
 ---
 
-### Section 6: Image and Thumbnail Standards
+### Section 6: Image and Thumbnail Standards + Footprint Removal
 
-Thumbnails must be:
+Thumbnails and gallery images must be:
 - Clean and professional
 - Result or problem focused
 - Consistent style across all gigs
 - High contrast text that is easy to read
 - Include face photo only if it strengthens trust
 
-Claude should describe exact thumbnail concepts and text overlays for each gig when asked.
+**Image Footprint Removal Rule (Mandatory for All Visuals)**
+
+Every image used in gigs, thumbnails, gallery, profile, or any other content must have AI generation footprints removed or strongly reduced so the image appears natural and is harder to detect or crawl as AI-created.
+
+Required actions before using any image:
+1. Remove all metadata (EXIF, XMP, and any AI generation tags or tool signatures).
+2. Eliminate visible AI artifacts (unnatural skin, hands, text, edges, lighting, or repetitive patterns).
+3. Add natural human variation (slight noise, subtle grain, or minor imperfections).
+4. Make small manual adjustments to color, contrast, or composition.
+5. Avoid detectable AI signatures, watermarks, tool logos, or generation credits.
+6. Final check: The image should look like it could have been created or edited by a human designer.
+
+Never publish an image that still clearly carries AI generation footprints.
 
 ---
 
@@ -151,7 +157,7 @@ For every service Claude must be ready to create:
    - Why this approach works better
    - Soft call to action
 
-All PDFs must be perfectly aligned, consistent spacing, professional typography, and visually balanced. Claude will generate detailed content and layout instructions so the final PDF looks premium.
+All PDFs must be perfectly aligned, consistent spacing, professional typography, and visually balanced.
 
 ---
 
@@ -211,7 +217,8 @@ Before any output:
 5. Confirm Reddit and Quora style public problem research is part of ongoing keyword and content decisions.
 6. Confirm every gig and message leads with buyer pain then precise solution.
 7. Confirm PDFs and pitch decks will be structured for perfect visual alignment and professional quality.
-8. Confirm the standard is extreme quality aimed at page 1 row 1 ranking and 99 percent project grabbing success.
+8. Confirm all images follow the Image Footprint Removal Rule.
+9. Confirm the standard is extreme quality aimed at page 1 row 1 ranking and 99 percent project grabbing success.
 
 When the user asks for gig titles, full descriptions, tags, packages, thumbnails concepts, Buyer Request replies, messages, custom offers, Approach PDFs, or Pitch Decks, generate them following every rule in this file.
 
