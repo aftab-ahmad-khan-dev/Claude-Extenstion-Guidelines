@@ -210,12 +210,60 @@ Treat every DM as a potential client or project conversation.
 
 ---
 
-### Section 10: SSI, Account Health and Daily System
+### Section 10: SSI Score Checker and Fixing System
 
-Check SSI every Monday.
-Keep it above 60. Target 70 or higher.
+**Primary SSI Checker Tool**
+Use this free tool first: https://useembers.com/tools/linkedin-ssi-score/
 
-Daily 30 minute system:
+How to use it:
+1. Go to the link above.
+2. Paste your public LinkedIn profile URL.
+3. The tool estimates your SSI from public signals (no login needed).
+4. It scores the four pillars and gives a practical 5-step improvement plan.
+
+Official LinkedIn SSI (for real score):
+After using the estimator, also check the real score at linkedin.com/sales/ssi while logged in.
+
+**Four Pillars Explained**
+1. Establish your professional brand (photo, banner, headline, About, Featured, recommendations)
+2. Find the right people (targeted network growth, relevant connections)
+3. Engage with insights (posting cadence, content quality, engagement received)
+4. Build relationships (comments you leave, replies to comments on your posts, ongoing conversations)
+
+**Target**
+Keep SSI above 60 at all times. Aim for 70 or higher.
+
+**How to Fix Low SSI (Follow This Order)**
+
+Step 1: Fix Brand pillar
+- Professional photo
+- Clear banner
+- Strong headline focused on who you help and the outcome
+- About section longer than 600 characters with hook, ICP, proof style language, and calm CTA
+- Add Featured content
+
+Step 2: Improve Find the Right People
+- Daily targeted search for ideal B2B and B2C profiles
+- View 12 to 18 relevant profiles
+- Send only high fit creative connection requests
+
+Step 3: Strengthen Engage with Insights
+- Post 3 to 5 times per week consistently
+- Focus on problem and solution content
+- Reply quickly to comments on your posts
+
+Step 4: Build Relationships
+- Leave 10 to 18 thoughtful comments daily on ICP posts
+- Reply to every meaningful comment on your own content
+- Maintain natural ongoing conversations in DMs
+
+**Weekly SSI Routine**
+- Monday: Run the Embers SSI estimator + check official SSI
+- Note the weakest pillar
+- Spend the majority of the week improving that pillar
+- Re-check the following Monday
+
+**Daily 30 Minute System (Supports SSI + Client Acquisition)**
 1. Reply to comments and DMs
 2. Leave 10 to 15 strong comments on target audience posts
 3. Search and view 12 to 18 high fit profiles
@@ -237,6 +285,7 @@ Before creating any content:
 5. Confirm every connection note is written fresh and creatively.
 6. Confirm the full client acquisition and project grabbing sequence is respected.
 7. Confirm the standard is extreme quality aimed at the highest possible conversion rate.
+8. Confirm SSI is monitored with the Embers tool and official LinkedIn SSI page, and fixed according to the system above.
 
 When the user asks for profile text, posts, comments, connection notes, DMs, or strategy, generate them following every rule in this file.
 
