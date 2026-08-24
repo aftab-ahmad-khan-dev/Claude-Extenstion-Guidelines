@@ -1,4 +1,5 @@
 # LinkedIn - Content Strategy
+**Use this file when:** planning, writing, or choosing visuals for a LinkedIn post.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 Apply Shared/01-indirect-selling-framework.md and Shared/02-content-trends-2026.md to every post below.
 

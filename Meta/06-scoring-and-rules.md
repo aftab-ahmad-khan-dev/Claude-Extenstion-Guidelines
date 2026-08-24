@@ -1,4 +1,5 @@
 # Meta - Effectiveness Scoring & Final Rules
+**Use this file when:** scoring a content batch after it's had time to perform.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

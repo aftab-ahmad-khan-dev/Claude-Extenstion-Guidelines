@@ -1,4 +1,5 @@
 # Fiverr - Messaging, Project Grabbing & Delivery
+**Use this file when:** replying to a buyer request or message, or delivering and closing out a completed order.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

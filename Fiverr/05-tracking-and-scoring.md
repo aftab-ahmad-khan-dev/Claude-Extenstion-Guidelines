@@ -1,4 +1,5 @@
 # Fiverr - Rank Tracking & Effectiveness Scoring
+**Use this file when:** doing the weekly rank check, or scoring how a gig update performed.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

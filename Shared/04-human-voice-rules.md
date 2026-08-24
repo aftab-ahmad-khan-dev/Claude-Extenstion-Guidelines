@@ -1,4 +1,5 @@
 # Shared - Human Voice Rules
+**Use this file when:** the final pass on any draft before it sends or posts, on any platform.
 Governed by Master Control Rules. No em dash in any output.
 Applies to every post, comment, DM, email, and proposal in this repo. Content that reads as AI-generated kills trust and kills reach, this file is the pass every draft runs through before it goes out.
 

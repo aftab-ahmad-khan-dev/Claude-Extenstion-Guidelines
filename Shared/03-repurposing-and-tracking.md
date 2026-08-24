@@ -1,4 +1,5 @@
 # Shared - Repurposing, Proof & Metrics
+**Use this file when:** turning one real insight into coverage across every platform, or reviewing what's actually working.
 Governed by Master Control Rules. No em dash in any output.
 Covers what the original single-file playbooks were missing: turning one idea into full coverage, capturing proof, and tracking what actually predicts revenue.
 

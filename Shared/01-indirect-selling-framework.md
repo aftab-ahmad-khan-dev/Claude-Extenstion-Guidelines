@@ -1,4 +1,5 @@
 # Shared - Indirect Selling Framework
+**Use this file when:** writing or reviewing any post, comment, DM, or email, on any platform.
 Governed by Master Control Rules. No em dash in any output.
 Referenced by every content, outreach, and engagement file in this repo (Fiverr, LinkedIn, Meta, Email). Read this once, apply it everywhere content is created.
 

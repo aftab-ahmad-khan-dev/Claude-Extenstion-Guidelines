@@ -1,4 +1,5 @@
 # Shared - Visibility: Google Ranking & AI Answer Engines (GEO)
+**Use this file when:** improving how findable the brand is on Google or through AI assistants.
 Governed by Master Control Rules. No em dash in any output.
 Google gets you found when someone searches. GEO (generative engine optimization) gets you recommended when someone asks an AI assistant. Both reward the same underlying thing: being a consistent, specific, well-documented expert in one clear niche, mentioned in multiple credible places.
 

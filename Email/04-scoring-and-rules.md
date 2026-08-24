@@ -1,4 +1,5 @@
 # Email - Effectiveness Scoring & Final Rules
+**Use this file when:** scoring an outreach batch or a major reply.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

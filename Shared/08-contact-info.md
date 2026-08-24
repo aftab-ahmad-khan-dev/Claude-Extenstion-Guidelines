@@ -1,4 +1,5 @@
 # Shared - Contact Information
+**Use this file when:** a task genuinely needs the real email or phone number (a signature, a footer, an explicit request).
 Governed by Master Control Rules. No em dash in any output.
 Reference only. This is personal contact data, not content. Read this file only when a task genuinely needs the details below.
 

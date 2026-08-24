@@ -1,4 +1,5 @@
 # Meta - Visual Standards
+**Use this file when:** creating or approving an image, carousel, or Reel cover.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

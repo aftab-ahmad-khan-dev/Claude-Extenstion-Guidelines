@@ -1,4 +1,5 @@
 # Email - Inbound Replies
+**Use this file when:** a lead reaches out first and a reply is needed.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

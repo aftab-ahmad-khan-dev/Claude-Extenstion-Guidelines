@@ -1,4 +1,5 @@
 # LinkedIn Playbook - Overview
+**Use this file when:** starting any LinkedIn task, to see which numbered file to open next.
 ## Client Acquisition + Authority Building + Top 3% Goal
 ### Governed by Master Control Rules
 

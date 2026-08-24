@@ -1,4 +1,5 @@
 # Fiverr Playbook - Overview
+**Use this file when:** starting any Fiverr task, to see which numbered file to open next.
 ## Gig Ranking + Project Grabbing + Top 3% Goal
 ### Governed by Master Control Rules
 

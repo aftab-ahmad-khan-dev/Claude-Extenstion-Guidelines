@@ -1,4 +1,5 @@
 # LinkedIn - SSI & Account Health
+**Use this file when:** doing the weekly SSI check or cleaning up pending connections.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

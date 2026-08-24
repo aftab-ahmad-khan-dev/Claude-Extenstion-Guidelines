@@ -1,4 +1,5 @@
 # Fiverr - Gigs, Keywords & Competitor Research
+**Use this file when:** creating a new gig or refreshing an existing one's keywords, title, packages, or description.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

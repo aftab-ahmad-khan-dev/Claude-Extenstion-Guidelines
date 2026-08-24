@@ -1,4 +1,5 @@
 # Fiverr - Visuals & Thumbnails
+**Use this file when:** creating or approving a gig thumbnail or gallery image.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

@@ -1,4 +1,5 @@
 # LinkedIn - Profile Optimization
+**Use this file when:** rewriting or auditing any section of the LinkedIn profile.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

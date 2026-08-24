@@ -1,4 +1,5 @@
 # Shared - Pitch Scripts (Human-Voice Swipe File)
+**Use this file when:** a human-voice starting point is needed for a cold message, to adapt with real specifics.
 Governed by Master Control Rules. No em dash in any output.
 Built on Shared/01-indirect-selling-framework.md and Shared/04-human-voice-rules.md.
 

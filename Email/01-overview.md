@@ -1,4 +1,5 @@
 # Email Playbook - Overview
+**Use this file when:** starting any cold-outreach or inbound-reply task, to see which numbered file to open next.
 ## Cold Outreach + Inbound Replies + Top 3% Goal
 ### Governed by Master Control Rules
 

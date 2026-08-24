@@ -1,4 +1,5 @@
 # Shared - Content Trends: Current & Near-Future
+**Use this file when:** planning a content batch and deciding which formats to use.
 Governed by Master Control Rules. No em dash in any output.
 Scan this before planning a content batch. Treat it as a living document, not a fixed list, update it as formats shift.
 

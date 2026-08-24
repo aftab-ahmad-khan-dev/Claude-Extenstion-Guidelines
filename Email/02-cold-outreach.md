@@ -1,4 +1,5 @@
 # Email - Cold Outreach
+**Use this file when:** writing a cold email, connection note, or cold DM to a new lead.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 Apply Shared/01-indirect-selling-framework.md to every message below. Covers the three channels used to open a conversation with a stranger: cold email, connection notes, and cold DMs.
 

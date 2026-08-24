@@ -1,4 +1,5 @@
 # LinkedIn - Client Acquisition Flow, Scoring & Final Rules
+**Use this file when:** scoring a content batch, or reviewing the client acquisition flow end to end.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 
 ---

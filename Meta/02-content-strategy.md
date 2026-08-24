@@ -1,4 +1,5 @@
 # Meta - Content Strategy
+**Use this file when:** planning or writing a post for Instagram, Facebook, or Threads.
 Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
 Apply Shared/01-indirect-selling-framework.md and Shared/02-content-trends-2026.md to every post below.
 
@@ -43,6 +44,7 @@ Prioritize Reels and native video for reach, carousels for saves, per current fo
 ### Platform-Specific Notes
 - Instagram: Higher visual focus, Reels and carousels perform well
 - Facebook: Slightly more conversational tone, fewer hashtags needed
+- Threads: Text-native and conversational, closer to a running discussion than a produced post. Skip the heavy caption structure, post the raw insight or the problem/why-it-fails/better-way in plain text, no hashtags needed, and expect the real value to happen in the reply thread, not the original post
 
 ---
 
