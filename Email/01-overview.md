@@ -30,3 +30,8 @@ Target leads that show a real, current problem, not generic prospect lists.
 
 ### See also
 - /Shared/01-indirect-selling-framework.md - problem, why-it-fails, better-way, soft-opening structure behind every email
+- /Shared/04-human-voice-rules.md - run every email and DM through this before sending
+- /Shared/05-visibility-seo-geo.md - being found on Google and cited by AI assistants, not just replied to
+- /Shared/06-network-growth.md - referral partners and warm-network follow-up beyond cold contact
+- /Shared/07-pitch-scripts.md - human-voice examples for cold email, DM, and follow-up
+- /Shared/08-contact-info.md - real contact details, reference only, use when a task actually needs them

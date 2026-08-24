@@ -13,7 +13,7 @@ Every file starts by naming which Master Control Rules and Shared files govern i
 
 ## Handling personal info
 
-`Shared/04-contact-info.md` holds the real email and phone number. Treat it as reference data, not content:
+`Shared/08-contact-info.md` holds the real email and phone number. Treat it as reference data, not content:
 - Only open or use it when a task genuinely needs it (an email signature, a proposal footer, a lead who asked for direct contact)
 - Never paste it into a public post, comment, caption, or connection note
 - Never surface it proactively; if unsure whether a task calls for it, ask first

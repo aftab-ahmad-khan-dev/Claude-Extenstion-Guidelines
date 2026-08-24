@@ -33,3 +33,7 @@ All gigs stay open to any niche while highlighting relevant experience.
 
 ### See also
 - /Shared/01-indirect-selling-framework.md - sell the fix, never the freelancer; applies to gig copy and buyer messaging alike
+- /Shared/04-human-voice-rules.md - run every buyer message through this before sending
+- /Shared/05-visibility-seo-geo.md - keyword and directory tactics that also lift Google and AI-assistant visibility
+- /Shared/06-network-growth.md - turning repeat buyers into referrals and partner relationships
+- /Shared/07-pitch-scripts.md - human-voice example for a buyer request reply

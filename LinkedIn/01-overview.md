@@ -36,3 +36,7 @@ Daily search and engagement focused on people actively showing pain or looking f
 - /Shared/01-indirect-selling-framework.md - the selling-without-selling formula behind every post and comment
 - /Shared/02-content-trends-2026.md - current and near-future content trends to plan around
 - /Shared/03-repurposing-and-tracking.md - turning one idea into full coverage, proof capture, real metrics
+- /Shared/04-human-voice-rules.md - run every post and comment through this before publishing
+- /Shared/05-visibility-seo-geo.md - making your profile and posts findable on Google and by AI assistants
+- /Shared/06-network-growth.md - communities, referral partners, and guest visibility beyond LinkedIn itself
+- /Shared/07-pitch-scripts.md - human-voice examples for connection notes and first replies

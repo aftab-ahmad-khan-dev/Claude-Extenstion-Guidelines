@@ -1,87 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" font-family="Arial, Helvetica, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Arial, Helvetica, sans-serif">
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0,0 L10,5 L0,10 z" fill="#9CA3AF"/>
     </marker>
   </defs>
 
-  <rect x="0" y="0" width="1200" height="620" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1200" height="700" fill="#FFFFFF"/>
 
   <text x="600" y="34" text-anchor="middle" font-size="24" font-weight="700" fill="#111827">Claude Playbook Repo — Structure &amp; Content Flow</text>
   <text x="600" y="56" text-anchor="middle" font-size="13" fill="#6B7280">One shared framework, four platform playbooks. Load only the numbered file the task needs.</text>
 
   <!-- Shared framework box -->
-  <rect x="350" y="80" width="500" height="175" rx="14" fill="#EEF2FF" stroke="#4F46E5" stroke-width="1.5"/>
-  <text x="600" y="108" text-anchor="middle" font-size="15" font-weight="700" fill="#3730A3">SHARED — Cross-Platform Framework</text>
-  <line x1="372" y1="118" x2="828" y2="118" stroke="#C7D2FE" stroke-width="1"/>
+  <rect x="350" y="80" width="500" height="240" rx="14" fill="#EEF2FF" stroke="#4F46E5" stroke-width="1.5"/>
+  <text x="600" y="106" text-anchor="middle" font-size="15" font-weight="700" fill="#3730A3">SHARED — Cross-Platform Framework</text>
+  <line x1="372" y1="116" x2="828" y2="116" stroke="#C7D2FE" stroke-width="1"/>
 
-  <text x="372" y="140" font-size="13" font-weight="700" fill="#3730A3">01 · Indirect Selling Framework</text>
-  <text x="372" y="157" font-size="11.5" fill="#4B5563">Sell the solution, never the person</text>
-
-  <text x="372" y="180" font-size="13" font-weight="700" fill="#3730A3">02 · Content Trends (2026)</text>
-  <text x="372" y="197" font-size="11.5" fill="#4B5563">Current &amp; near-future format trends</text>
-
-  <text x="372" y="220" font-size="13" font-weight="700" fill="#3730A3">03 · Repurposing &amp; Tracking</text>
-  <text x="372" y="237" font-size="11.5" fill="#4B5563">One idea → every platform, real metrics</text>
+  <text x="372" y="136" font-size="12.5" fill="#3730A3"><tspan font-weight="700">01</tspan> · Indirect Selling Framework</text>
+  <text x="372" y="160" font-size="12.5" fill="#3730A3"><tspan font-weight="700">02</tspan> · Content Trends (2026)</text>
+  <text x="372" y="184" font-size="12.5" fill="#3730A3"><tspan font-weight="700">03</tspan> · Repurposing &amp; Tracking</text>
+  <text x="372" y="208" font-size="12.5" fill="#3730A3"><tspan font-weight="700">04</tspan> · Human Voice Rules</text>
+  <text x="372" y="232" font-size="12.5" fill="#3730A3"><tspan font-weight="700">05</tspan> · Visibility - SEO &amp; AI/GEO</text>
+  <text x="372" y="256" font-size="12.5" fill="#3730A3"><tspan font-weight="700">06</tspan> · Network Growth</text>
+  <text x="372" y="280" font-size="12.5" fill="#3730A3"><tspan font-weight="700">07</tspan> · Pitch Scripts</text>
+  <text x="372" y="304" font-size="12.5" fill="#3730A3"><tspan font-weight="700">08</tspan> · Contact Info (reference)</text>
 
   <!-- Fan-out arrows -->
-  <path d="M600,255 Q390,269.5 180,284" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
-  <path d="M600,255 Q530,269.5 460,284" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
-  <path d="M600,255 Q670,269.5 740,284" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
-  <path d="M600,255 Q810,269.5 1020,284" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M600,320 Q390,334.5 180,349" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M600,320 Q530,334.5 460,349" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M600,320 Q670,334.5 740,349" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <path d="M600,320 Q810,334.5 1020,349" fill="none" stroke="#9CA3AF" stroke-width="1.5" marker-end="url(#arrow)"/>
 
   <!-- Fiverr column -->
   <g>
-    <rect x="50" y="290" width="260" height="246" rx="12" fill="#E9FBF3" stroke="#1DBF73" stroke-width="1.5"/>
-    <text x="66" y="318" font-size="15" font-weight="700" fill="#0E9F5D">FIVERR</text>
-    <text x="66" y="336" font-size="11" fill="#4B5563">Gig ranking + delivery</text>
-    <line x1="66" y1="346" x2="294" y2="346" stroke="#B7F0D6" stroke-width="1"/>
-    <text x="66" y="368" font-size="12.5" fill="#065F46"><tspan font-weight="700">01</tspan> · Overview</text>
-    <text x="66" y="398" font-size="12.5" fill="#065F46"><tspan font-weight="700">02</tspan> · Gigs &amp; Keywords</text>
-    <text x="66" y="428" font-size="12.5" fill="#065F46"><tspan font-weight="700">03</tspan> · Messaging &amp; Delivery</text>
-    <text x="66" y="458" font-size="12.5" fill="#065F46"><tspan font-weight="700">04</tspan> · Visuals</text>
-    <text x="66" y="488" font-size="12.5" fill="#065F46"><tspan font-weight="700">05</tspan> · Tracking &amp; Scoring</text>
+    <rect x="50" y="355" width="260" height="246" rx="12" fill="#E9FBF3" stroke="#1DBF73" stroke-width="1.5"/>
+    <text x="66" y="383" font-size="15" font-weight="700" fill="#0E9F5D">FIVERR</text>
+    <text x="66" y="401" font-size="11" fill="#4B5563">Gig ranking + delivery</text>
+    <line x1="66" y1="411" x2="294" y2="411" stroke="#B7F0D6" stroke-width="1"/>
+    <text x="66" y="433" font-size="12.5" fill="#065F46"><tspan font-weight="700">01</tspan> · Overview</text>
+    <text x="66" y="463" font-size="12.5" fill="#065F46"><tspan font-weight="700">02</tspan> · Gigs &amp; Keywords</text>
+    <text x="66" y="493" font-size="12.5" fill="#065F46"><tspan font-weight="700">03</tspan> · Messaging &amp; Delivery</text>
+    <text x="66" y="523" font-size="12.5" fill="#065F46"><tspan font-weight="700">04</tspan> · Visuals</text>
+    <text x="66" y="553" font-size="12.5" fill="#065F46"><tspan font-weight="700">05</tspan> · Tracking &amp; Scoring</text>
   </g>
 
   <!-- LinkedIn column -->
   <g>
-    <rect x="330" y="290" width="260" height="278" rx="12" fill="#E8F1FB" stroke="#0A66C2" stroke-width="1.5"/>
-    <text x="346" y="318" font-size="15" font-weight="700" fill="#0A66C2">LINKEDIN</text>
-    <text x="346" y="336" font-size="11" fill="#4B5563">Client acquisition + authority</text>
-    <line x1="346" y1="346" x2="574" y2="346" stroke="#BFDBFE" stroke-width="1"/>
-    <text x="346" y="368" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">01</tspan> · Overview</text>
-    <text x="346" y="398" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">02</tspan> · Profile Optimization</text>
-    <text x="346" y="428" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">03</tspan> · Content Strategy</text>
-    <text x="346" y="458" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">04</tspan> · Outreach &amp; Engagement</text>
-    <text x="346" y="488" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">05</tspan> · Account Health</text>
-    <text x="346" y="518" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">06</tspan> · Scoring &amp; Rules</text>
+    <rect x="330" y="355" width="260" height="278" rx="12" fill="#E8F1FB" stroke="#0A66C2" stroke-width="1.5"/>
+    <text x="346" y="383" font-size="15" font-weight="700" fill="#0A66C2">LINKEDIN</text>
+    <text x="346" y="401" font-size="11" fill="#4B5563">Client acquisition + authority</text>
+    <line x1="346" y1="411" x2="574" y2="411" stroke="#BFDBFE" stroke-width="1"/>
+    <text x="346" y="433" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">01</tspan> · Overview</text>
+    <text x="346" y="463" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">02</tspan> · Profile Optimization</text>
+    <text x="346" y="493" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">03</tspan> · Content Strategy</text>
+    <text x="346" y="523" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">04</tspan> · Outreach &amp; Engagement</text>
+    <text x="346" y="553" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">05</tspan> · Account Health</text>
+    <text x="346" y="583" font-size="12.5" fill="#1E3A8A"><tspan font-weight="700">06</tspan> · Scoring &amp; Rules</text>
   </g>
 
   <!-- Meta column -->
   <g>
-    <rect x="610" y="290" width="260" height="278" rx="12" fill="#F3EEFF" stroke="#7C3AED" stroke-width="1.5"/>
-    <text x="626" y="318" font-size="15" font-weight="700" fill="#6D28D9">META</text>
-    <text x="626" y="336" font-size="11" fill="#4B5563">Instagram + Facebook visibility</text>
-    <line x1="626" y1="346" x2="854" y2="346" stroke="#DDD6FE" stroke-width="1"/>
-    <text x="626" y="368" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">01</tspan> · Overview</text>
-    <text x="626" y="398" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">02</tspan> · Content Strategy</text>
-    <text x="626" y="428" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">03</tspan> · Scheduling</text>
-    <text x="626" y="458" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">04</tspan> · Visuals</text>
-    <text x="626" y="488" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">05</tspan> · Engagement</text>
-    <text x="626" y="518" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">06</tspan> · Scoring &amp; Rules</text>
+    <rect x="610" y="355" width="260" height="278" rx="12" fill="#F3EEFF" stroke="#7C3AED" stroke-width="1.5"/>
+    <text x="626" y="383" font-size="15" font-weight="700" fill="#6D28D9">META</text>
+    <text x="626" y="401" font-size="11" fill="#4B5563">Instagram + Facebook visibility</text>
+    <line x1="626" y1="411" x2="854" y2="411" stroke="#DDD6FE" stroke-width="1"/>
+    <text x="626" y="433" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">01</tspan> · Overview</text>
+    <text x="626" y="463" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">02</tspan> · Content Strategy</text>
+    <text x="626" y="493" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">03</tspan> · Scheduling</text>
+    <text x="626" y="523" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">04</tspan> · Visuals</text>
+    <text x="626" y="553" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">05</tspan> · Outreach &amp; Engagement</text>
+    <text x="626" y="583" font-size="12.5" fill="#4C1D95"><tspan font-weight="700">06</tspan> · Scoring &amp; Rules</text>
   </g>
 
   <!-- Email column -->
   <g>
-    <rect x="890" y="290" width="260" height="214" rx="12" fill="#FFF7ED" stroke="#D97706" stroke-width="1.5"/>
-    <text x="906" y="318" font-size="15" font-weight="700" fill="#B45309">EMAIL</text>
-    <text x="906" y="336" font-size="11" fill="#4B5563">Cold outreach + inbound replies</text>
-    <line x1="906" y1="346" x2="1134" y2="346" stroke="#FDE1B7" stroke-width="1"/>
-    <text x="906" y="368" font-size="12.5" fill="#92400E"><tspan font-weight="700">01</tspan> · Overview</text>
-    <text x="906" y="398" font-size="12.5" fill="#92400E"><tspan font-weight="700">02</tspan> · Cold Outreach</text>
-    <text x="906" y="428" font-size="12.5" fill="#92400E"><tspan font-weight="700">03</tspan> · Inbound Replies</text>
-    <text x="906" y="458" font-size="12.5" fill="#92400E"><tspan font-weight="700">04</tspan> · Scoring &amp; Rules</text>
+    <rect x="890" y="355" width="260" height="214" rx="12" fill="#FFF7ED" stroke="#D97706" stroke-width="1.5"/>
+    <text x="906" y="383" font-size="15" font-weight="700" fill="#B45309">EMAIL</text>
+    <text x="906" y="401" font-size="11" fill="#4B5563">Cold outreach + inbound replies</text>
+    <line x1="906" y1="411" x2="1134" y2="411" stroke="#FDE1B7" stroke-width="1"/>
+    <text x="906" y="433" font-size="12.5" fill="#92400E"><tspan font-weight="700">01</tspan> · Overview</text>
+    <text x="906" y="463" font-size="12.5" fill="#92400E"><tspan font-weight="700">02</tspan> · Cold Outreach</text>
+    <text x="906" y="493" font-size="12.5" fill="#92400E"><tspan font-weight="700">03</tspan> · Inbound Replies</text>
+    <text x="906" y="523" font-size="12.5" fill="#92400E"><tspan font-weight="700">04</tspan> · Scoring &amp; Rules</text>
   </g>
 
-  <text x="600" y="600" text-anchor="middle" font-size="12" font-style="italic" fill="#9CA3AF">Files are numbered in the order to follow them — load only what a task needs, not the whole playbook.</text>
+  <text x="600" y="670" text-anchor="middle" font-size="12" font-style="italic" fill="#9CA3AF">Files are numbered in the order to follow them — load only what a task needs, not the whole playbook.</text>
 </svg>
