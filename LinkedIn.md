@@ -1,78 +1,101 @@
 # Claude LinkedIn Playbook
-## Client Acquisition + Authority + Top 3% Goal
+## Client Acquisition + Authority Building + Top 3% Goal
 ### Governed by Master Control Rules
 
 **How to use this file**
 Proceed one by one.
-Follow all Master Control rules (approval for attachments, solution-first, no em dash, top 3% goal, scoring, Canva free plan, image footprint removal).
-Never use the character — (em dash).
+Follow all Master Control rules: approval required for every attachment, solution-first approach, no em dash, top 3% worldwide goal, effectiveness scoring, Canva free plan only, and full Image Footprint Removal.
+Never use the character — (em dash) in any output.
 
 ---
 
 ### Core Goal
-Sell the solution and problem fix, not the person.
-Reach top 3% worldwide in custom development, bug fixing, full stack, QA & DevOps, WordPress and Shopify solutions through LinkedIn.
+Sell the solution and the problem fix, never the person.
+Position every post, comment, and message so that the custom solution becomes the obvious higher-level choice.
+Long-term target: Reach and stay in the top 3% worldwide in custom development, bug fixing, full stack solutions, QA & Audit, WordPress and Shopify work through LinkedIn authority and inbound opportunities.
 
 ---
 
 ### Profile Optimization
-Headline, About, Featured, Experience, Banner and Services must position the solutions as the clear higher-level choice.
-Lead with the problem, then the precise custom remote solution.
+Every section of the profile must work as a client acquisition asset.
+
+- Headline: Focus on the outcome and the type of problems solved
+- About: Start with the common pain, explain why generic approaches fail, position precise custom remote solutions as the better path, end with a calm invitation
+- Featured: Pin strongest problem-solution posts and process posts
+- Experience: Rewrite to highlight problems solved and superior outcomes
+- Services & Open to Work: Set to Remote + Worldwide, list clear solution-focused services
+- Banner: Clean and solution-oriented
 
 ---
 
-### Audience & Search
-Worldwide B2B (60%) + B2C (40%).
-Daily targeted search for people showing real problems.
-View profiles, engage first, then connect.
+### Audience Strategy
+Worldwide audience.
+60% B2B (founders, CEOs, managers, decision makers with budget)
+40% B2C (individuals, freelancers, solopreneurs with real problems)
+
+Daily search and engagement focused on people actively showing pain or looking for solutions.
 
 ---
 
-### Connection Notes
-Write a completely fresh and creative note every time.
-No templates. No pitch. Short, natural, problem-aware.
+### Connection & Outreach
+Daily limit: 15–20 connection requests.
+Write a completely fresh and creative connection note every single time based on the person’s profile or recent activity.
+No templates. No pitch in the connection note.
+After acceptance, start with understanding before any solution talk.
 
 ---
 
 ### Content System
-7 posts per week.
-Problem posts, Solution posts, Soft consultation posts.
-Maximum impressions, profile visits, comments and inbox conversations.
+Post 3–5 times per week.
+Content pillars:
+1. Problem awareness posts
+2. Solution and approach posts
+3. Soft consultation / “if you are currently stuck” posts
 
-**Image Rule**
-All visuals must go through approval first.
-Use Canva free plan only.
-Apply full Image Footprint Removal (strip metadata, remove AI artifacts, add natural variation).
+Maximize impressions, profile views, comments, and inbox conversations.
+All images require prior approval and must follow Image Footprint Removal + Canva free plan rules.
 
 ---
 
-### Engagement & SSI
-10–25 high quality comments daily.
-Maintain SSI above 75 (target 80+).
-Use Embers SSI checker + official LinkedIn SSI.
-Withdraw pending requests after 21 days.
+### Engagement System
+10–18 high-quality comments per day (minimum 2–4 sentences).
+Reply quickly to comments on your own posts.
+Treat every meaningful conversation as a potential client opportunity.
+
+---
+
+### SSI & Account Health
+Check SSI every Monday using Embers tool + official LinkedIn SSI.
+Keep score above 60 (target 70+).
+Withdraw any pending connection request older than 21 days.
+Daily 25–30 minute maintenance routine focused on visibility and relationships.
 
 ---
 
 ### Client Acquisition Flow
-Attract → Engage → Connect → Understand → Position Solution → Convert.
-Only move to paid conversation when the fit is clear.
+1. Attract with strong problem-solution content
+2. Engage meaningfully
+3. Connect with personalized notes
+4. Understand the real problem deeply
+5. Position the precise custom solution
+6. Convert only when the fit is clear
 
 ---
 
 ### Effectiveness Scoring
-After every major update provide:
-- Impressions potential
+After every major update or content batch, provide a clear scorecard covering:
+- Impressions & reach potential
 - Engagement potential
 - Profile visibility potential
-- Inbox & conversion potential
-- Overall progress vs previous version
-- Contribution toward top 3%
+- Inbox & conversation potential
+- Client conversion potential
+- Overall progress versus previous version
+- Contribution toward top 3% goal
 
 ---
 
 ### Final Rules
-- Every attachment requires user approval before use
-- Skip any section that is already strong
-- Focus on maximum visibility, reactions, comments, inboxes and conversions
-- Solution and problem-fix are always the hero
+- Every attachment must be approved before use
+- Skip any section that is already performing at a high level
+- Always maximize impressions, clicks, reactions, comments, inboxes, and conversions
+- The solution and problem-fix are always the hero
