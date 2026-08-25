@@ -1,6 +1,6 @@
 # Shared - Content Trends: Current & Near-Future
 **Use this file when:** planning a content batch and deciding which formats to use.
-Governed by Master Control Rules. No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 Scan this before planning a content batch. Treat it as a living document, not a fixed list, update it as formats shift.
 
 ---

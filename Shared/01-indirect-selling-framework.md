@@ -1,6 +1,6 @@
 # Shared - Indirect Selling Framework
 **Use this file when:** writing or reviewing any post, comment, DM, or email, on any platform.
-Governed by Master Control Rules. No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 Referenced by every content, outreach, and engagement file in this repo (Fiverr, LinkedIn, Meta, Email). Read this once, apply it everywhere content is created.
 
 ---

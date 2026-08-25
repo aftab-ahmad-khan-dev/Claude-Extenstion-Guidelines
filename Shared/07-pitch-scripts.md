@@ -1,6 +1,6 @@
 # Shared - Pitch Scripts (Human-Voice Swipe File)
 **Use this file when:** a human-voice starting point is needed for a cold message, to adapt with real specifics.
-Governed by Master Control Rules. No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 Every example below sells the solution, never the person: name a real problem, give a real insight away, end on a low-pressure question, written the way an actual person talks, not marketing copy.
 
 **Hard rule**: these are voice references, not templates. Copy the rhythm and tone, never the exact wording twice. Every bracketed detail must be swapped for something real and specific to that exact person or situation. Sending the same phrasing twice is a template again, and it reads as one.
