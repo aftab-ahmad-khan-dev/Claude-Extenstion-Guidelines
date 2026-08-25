@@ -1,6 +1,6 @@
 # Shared - Human Voice Rules
 **Use this file when:** the final pass on any draft before it sends or posts, on any platform.
-Governed by Master Control Rules. No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 Applies to every post, comment, DM, email, and proposal in this repo. Content that reads as AI-generated kills trust and kills reach, this file is the pass every draft runs through before it goes out.
 
 ---

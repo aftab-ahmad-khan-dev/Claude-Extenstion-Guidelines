@@ -1,6 +1,6 @@
 # Shared - Network Growth (B2B + B2C)
 **Use this file when:** building community presence, referral partners, or guest visibility beyond the 4 main channels.
-Governed by Master Control Rules. No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 Growth beyond posting and cold outreach: communities, referral partners, and being visible through other people's audiences.
 
 ---

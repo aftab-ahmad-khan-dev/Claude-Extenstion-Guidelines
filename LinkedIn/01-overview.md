@@ -1,12 +1,6 @@
 # LinkedIn Playbook - Overview
 **Use this file when:** starting any LinkedIn task, to see which numbered file to open next.
-## Client Acquisition + Authority Building + Top 3% Goal
-### Governed by Master Control Rules
-
-**How to use these files**
-Load only the file relevant to the task at hand (profile, content, outreach, account health, or scoring) instead of the full playbook, to keep context lean.
-Follow all Master Control rules on every file: approval required for every attachment, solution-first approach, no em dash, top 3% worldwide goal, effectiveness scoring, Canva free plan only, and full Image Footprint Removal.
-Never use the character — (em dash) in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 
 ---
 

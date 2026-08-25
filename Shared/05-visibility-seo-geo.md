@@ -1,6 +1,6 @@
 # Shared - Visibility: Google Ranking & AI Answer Engines (GEO)
 **Use this file when:** improving how findable the brand is on Google or through AI assistants.
-Governed by Master Control Rules. No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 Google gets you found when someone searches. GEO (generative engine optimization) gets you recommended when someone asks an AI assistant. Both reward the same underlying thing: being a consistent, specific, well-documented expert in one clear niche, mentioned in multiple credible places.
 
 ---
