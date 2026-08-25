@@ -1,7 +1,7 @@
 # Email - Cold Outreach
 **Use this file when:** writing a cold email, connection note, or cold DM to a new lead.
-Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
-Apply Shared/01-indirect-selling-framework.md to every message below. Covers the three channels used to open a conversation with a stranger: cold email, connection notes, and cold DMs.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates.
+Sell the solution, never yourself, in every message below: name the problem, give a real insight, end on a low-pressure question, never a pitch. Covers the three channels used to open a conversation with a stranger: cold email, connection notes, and cold DMs.
 
 ---
 
@@ -33,7 +33,7 @@ No clickbait, no all caps, no spam trigger words.
 3. Keep it short enough to read in one glance, connection notes are character-limited on most platforms
 4. Write a completely fresh note every time, never reuse the same note twice
 
-Daily volume and platform-specific limits live in LinkedIn/04-outreach-and-engagement.md; this section governs what the note actually says.
+Typical volume: 15-25 connection requests per day on LinkedIn, staying well under whatever platform's rate limit applies. This section governs what the note actually says.
 
 ---
 
@@ -58,7 +58,7 @@ Keep it short. Never attach files without prior user approval.
 ### Responding When They Reply (DM or Email)
 1. Reply fast, cold-outreach replies lose momentum quickly if left overnight
 2. Drop the outreach framing immediately, the conversation is now a real one, not a pitch
-3. Ask one discovery question before proposing anything (see 03-inbound-replies.md for the full discovery-to-proposal flow)
+3. Ask one discovery question before proposing anything: what's actually broken, what's already been tried, and timeline, never quote a price before the problem is genuinely understood
 4. If they reply but aren't ready or aren't a fit, thank them and close the loop, never keep pushing
 5. Never send a generic "thanks for connecting" message with nothing real in it, every first reply must add value or ask something specific
 
@@ -73,6 +73,6 @@ Only try a second channel after the full follow-up sequence on the first channel
 ---
 
 ### Daily Limits & Deliverability
-Respect sending limits on every channel to protect domain, inbox, and account reputation (platform-specific caps in LinkedIn/04-outreach-and-engagement.md).
+Respect sending limits on every channel to protect domain, inbox, and account reputation. Typical safe ranges: cold email volume scaled gradually as the domain warms up, LinkedIn connection requests 15-25/day, Instagram/Facebook/Threads proactive DMs and comments combined roughly 15-20/day per account. Favor the more conservative number whenever a channel or account is new.
 Personalize enough that no two messages in a sequence read the same.
 Track opens, replies, and positive response rate weekly, broken out by channel.

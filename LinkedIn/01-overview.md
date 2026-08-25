@@ -26,18 +26,7 @@ Daily search and engagement focused on people actively showing pain or looking f
 
 ---
 
-### Other files in this folder
-- 02-profile-optimization.md - headline, about, featured, experience, services (use when updating profile)
-- 03-content-strategy.md - content pillars, step-by-step post creation, visuals (use when writing posts)
-- 04-outreach-and-engagement.md - connection requests and daily comment engagement (use daily)
-- 05-account-health.md - SSI tracking and pending connection cleanup (use weekly)
-- 06-scoring-and-rules.md - client acquisition flow, effectiveness scoring, final rules
+### What This Playbook Covers
+Beyond this overview: profile optimization (headline, about, featured, experience, services), content strategy (content pillars, step-by-step post creation, visuals), daily outreach and engagement (connection requests, comments, DMs, notifications), weekly account health (SSI tracking, pending connection cleanup), and the client acquisition flow with effectiveness scoring.
 
-### See also
-- /Shared/01-indirect-selling-framework.md - the selling-without-selling formula behind every post and comment
-- /Shared/02-content-trends-2026.md - current and near-future content trends to plan around
-- /Shared/03-repurposing-and-tracking.md - turning one idea into full coverage, proof capture, real metrics
-- /Shared/04-human-voice-rules.md - run every post and comment through this before publishing
-- /Shared/05-visibility-seo-geo.md - making your profile and posts findable on Google and by AI assistants
-- /Shared/06-network-growth.md - communities, referral partners, and guest visibility beyond LinkedIn itself
-- /Shared/07-pitch-scripts.md - human-voice examples for connection notes and first replies
+It follows the same principles used across every channel in this system: sell the solution never yourself in every post and comment, plan content around current and near-future trends, turn one idea into coverage across every channel, run everything through a real human-voice pass before publishing, build visibility on Google and with AI assistants, grow the network through communities and referral partners beyond LinkedIn itself, and treat any example message as a voice reference to adapt, never send verbatim.

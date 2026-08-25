@@ -1,17 +1,17 @@
 # LinkedIn - Content Strategy
 **Use this file when:** planning, writing, or choosing visuals for a LinkedIn post.
-Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
-Apply Shared/01-indirect-selling-framework.md and Shared/02-content-trends-2026.md to every post below.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
+Every post below sells the solution, never the person: name the problem, explain why the common fix fails, teach the real fix, end on a low-pressure question or opening. No pitch, no "I offer," no "message me."
 
 ---
 
 ### Posting Cadence
-Post 3-5 times per week. Mix formats across the week instead of repeating one format daily (see Shared/02-content-trends-2026.md for current format mix).
+Post 3-5 times per week. Mix formats across the week instead of repeating one format daily. Current formats worth prioritizing: short vertical video and native carousel/document posts for reach and saves, plain high-insight text when the first two lines earn the expand click. Drop any format that underperforms 2-3 times running.
 
 ---
 
 ### Content Pillars
-Each pillar runs through the 4-step formula (Shared/01-indirect-selling-framework.md):
+Each pillar runs through the 4-step formula:
 1. Problem awareness - name a real, current problem before the reader has fully articulated it
 2. Why-it-fails - break down why the generic or cheap fix to that problem backfires
 3. The-better-way - teach the real fix or the right way to think about it, give away genuine value
@@ -23,11 +23,11 @@ Each pillar runs through the 4-step formula (Shared/01-indirect-selling-framewor
 1. Pull the idea from a real project, audit, or buyer/client conversation, never invent a problem
 2. Write the hook: the first 1-2 lines must state the problem sharper than the reader could state it themselves
 3. Write the body using the 4-step formula: problem, why it fails, the better way, soft opening
-4. Layer both audiences into the same post: frame cost/risk/scale for the B2B reader, frustration/effort for the B2C reader (Shared/01-indirect-selling-framework.md)
+4. Layer both audiences into the same post: frame cost/risk/scale for the B2B reader, frustration/effort for the B2C reader
 5. Choose the visual (see below) and prepare it
 6. Get user approval on any image, carousel, or video before posting
 7. Post, then engage with every comment within the first hour to maximize reach
-8. Log the post in the content bank and repurpose it into Meta and Email formats (Shared/03-repurposing-and-tracking.md)
+8. Log the post in the content bank and repurpose it: cut the sharpest insight into a Reel/DM opener and a cold-email subject line so one idea covers every channel
 
 ---
 

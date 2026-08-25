@@ -26,15 +26,7 @@ All gigs stay open to any niche while highlighting relevant experience.
 
 ---
 
-### Other files in this folder
-- 02-gigs-and-keywords.md - keyword research, competitor analysis, gig creation standards (use when setting up or updating a gig)
-- 03-messaging-and-delivery.md - buyer requests, messaging, project grabbing, delivery, reviews (use daily)
-- 04-visuals.md - thumbnail and gallery image rules (use when creating visuals)
-- 05-tracking-and-scoring.md - rank tracking and effectiveness scoring (use weekly / after updates)
+### What This Playbook Covers
+Beyond this overview: gig setup (keyword research, competitor analysis, creation standards for new or updated gigs), buyer messaging and delivery (buyer requests, project grabbing, delivery, reviews, used daily), visual standards for thumbnails and gallery images, and weekly rank tracking with effectiveness scoring.
 
-### See also
-- /Shared/01-indirect-selling-framework.md - sell the fix, never the freelancer; applies to gig copy and buyer messaging alike
-- /Shared/04-human-voice-rules.md - run every buyer message through this before sending
-- /Shared/05-visibility-seo-geo.md - keyword and directory tactics that also lift Google and AI-assistant visibility
-- /Shared/06-network-growth.md - turning repeat buyers into referrals and partner relationships
-- /Shared/07-pitch-scripts.md - human-voice example for a buyer request reply
+It follows the same principles used across every channel in this system: sell the fix, never the freelancer, write every buyer message in a real human voice, use keyword and directory tactics that also lift Google and AI-assistant visibility, turn repeat buyers into referrals and partner relationships, and treat any example reply as a voice reference to adapt, never send verbatim.

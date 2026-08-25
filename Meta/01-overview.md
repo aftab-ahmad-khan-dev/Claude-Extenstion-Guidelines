@@ -16,18 +16,7 @@ Build strong visibility, engagement, and authority on Instagram, Facebook, and T
 
 ---
 
-### Other files in this folder
-- 02-content-strategy.md - step-by-step post creation, formats, and caption structure across Instagram, Facebook, and Threads (use when writing posts)
-- 03-scheduling.md - posting cadence and Meta Business Suite workflow
-- 04-visuals.md - image and Reel cover rules (use when creating visuals)
-- 05-outreach-and-engagement.md - finding and engaging target accounts, notifications, DMs, and comment/reply responses across Instagram, Facebook, and Threads (use daily, runs autonomously without asking each time)
-- 06-scoring-and-rules.md - effectiveness scoring, final rules
+### What This Playbook Covers
+Beyond this overview: content strategy (step-by-step post creation, formats, and caption structure across Instagram, Facebook, and Threads), scheduling (posting cadence and workflow per app), visual standards for images and Reel covers, daily outreach and engagement (finding target accounts, notifications, DMs, comment and reply responses, run as one batch review rather than asking item by item), and effectiveness scoring.
 
-### See also
-- /Shared/01-indirect-selling-framework.md - the selling-without-selling formula behind every post and comment
-- /Shared/02-content-trends-2026.md - current and near-future content trends to plan around
-- /Shared/03-repurposing-and-tracking.md - turning one idea into full coverage, proof capture, real metrics
-- /Shared/04-human-voice-rules.md - run every caption, comment, and DM through this before sending
-- /Shared/05-visibility-seo-geo.md - making your profile and posts findable on Google and by AI assistants
-- /Shared/06-network-growth.md - communities, referral partners, and guest visibility beyond Meta itself
-- /Shared/07-pitch-scripts.md - human-voice examples for cold DMs
+It follows the same principles used across every channel in this system: sell the solution never yourself in every post and comment, plan content around current and near-future trends, turn one idea into coverage across every channel, run every caption and DM through a real human-voice pass before sending, build visibility on Google and with AI assistants, grow the network through communities and referral partners beyond Meta itself, and treat any example DM as a voice reference to adapt, never send verbatim.

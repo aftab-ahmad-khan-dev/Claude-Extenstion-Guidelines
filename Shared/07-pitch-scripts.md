@@ -1,7 +1,7 @@
 # Shared - Pitch Scripts (Human-Voice Swipe File)
 **Use this file when:** a human-voice starting point is needed for a cold message, to adapt with real specifics.
 Governed by Master Control Rules. No em dash in any output.
-Built on Shared/01-indirect-selling-framework.md and Shared/04-human-voice-rules.md.
+Every example below sells the solution, never the person: name a real problem, give a real insight away, end on a low-pressure question, written the way an actual person talks, not marketing copy.
 
 **Hard rule**: these are voice references, not templates. Copy the rhythm and tone, never the exact wording twice. Every bracketed detail must be swapped for something real and specific to that exact person or situation. Sending the same phrasing twice is a template again, and it reads as one.
 
@@ -63,4 +63,4 @@ Example 2: "Hey, loved the post about hitting [milestone]. Curious, who's handli
 ---
 
 ### Why These Work
-Every example names a specific, real-sounding detail before saying anything else, gives away the actual insight instead of teasing it, and ends on an easy, low-pressure question or offer, never a pitch. Run every adapted version through Shared/04-human-voice-rules.md before sending.
+Every example names a specific, real-sounding detail before saying anything else, gives away the actual insight instead of teasing it, and ends on an easy, low-pressure question or offer, never a pitch. Before sending any adapted version, read it out loud, if it sounds like marketing copy or repeats a phrase from these examples, rewrite it in your own words.

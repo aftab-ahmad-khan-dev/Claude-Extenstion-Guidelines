@@ -12,7 +12,7 @@ Phone / WhatsApp: +923224597697
 ---
 
 ### When to Use
-- Email signatures on outbound cold emails or replies (Email/02-cold-outreach.md, Email/03-inbound-replies.md)
+- Email signatures on outbound cold emails or replies
 - Proposal or invoice footers
 - A gig's official contact field, if the platform requires it
 - When explicitly asked to share contact details with a specific lead

@@ -10,7 +10,7 @@ Covers what the original single-file playbooks were missing: turning one idea in
 2. Write the long-form version first (LinkedIn post or newsletter)
 3. Cut it into a short-form video script (Meta Reels / LinkedIn native video) using the same problem, why it fails, better way structure
 4. Cut it into a carousel/document post using the same structure, one point per slide
-5. Cut the single sharpest insight into a cold-outreach opening line or subject line (see Email/02-cold-outreach.md)
+5. Cut the single sharpest insight into a cold-outreach opening line or subject line
 6. Log the idea and every format it became in the content bank so nothing is wasted after one post
 
 ---
@@ -44,7 +44,7 @@ Vanity likes are a lagging, weak signal, do not optimize for them directly.
 ---
 
 ### What Was Missing (added here)
-- Answer-engine (AI search) visibility as a discovery channel, see 02-content-trends-2026.md
+- Answer-engine (AI search) visibility as a discovery channel for buyers researching a problem, not just Google
 - A repurposing system so one real insight covers every platform instead of writing from scratch each time
 - A proof/testimonial capture step immediately after delivery, previously not covered anywhere
 - Leading-indicator metrics instead of vanity metrics

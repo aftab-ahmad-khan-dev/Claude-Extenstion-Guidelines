@@ -25,7 +25,7 @@ Google gets you found when someone searches. GEO (generative engine optimization
 ### AI Answer Engine Visibility (GEO): Step-by-Step
 1. Write in a clear, structured, quotable way, a direct answer to a specific question, not vague marketing copy. AI models prefer content that reads as an actual answer
 2. Get mentioned or quoted on third-party sites AI models already trust (Reddit threads, Quora answers, respected niche forums, guest posts). A mention on someone else's credible page counts more than a claim on your own site
-3. Answer real questions in public (Reddit, Quora, LinkedIn comments, forums) the same way as any other content, using Shared/01-indirect-selling-framework.md. These public answers get indexed and can be surfaced directly by AI assistants
+3. Answer real questions in public (Reddit, Quora, LinkedIn comments, forums) the same way as any other content: name the real problem, give the real answer, no pitch. These public answers get indexed and can be surfaced directly by AI assistants
 4. Periodically ask ChatGPT, Claude, and Perplexity a real buyer-style question in the niche ("who should I hire to audit a vibecoded app") and check whether you're mentioned. If not, that gap becomes next month's content topic
 5. Keep every public bio and service description internally consistent across every platform, this is what lets an AI model connect the dots that these are all the same person
 
@@ -35,4 +35,4 @@ Google gets you found when someone searches. GEO (generative engine optimization
 1. Search your own name plus your niche on Google, note what shows up on page 1
 2. Ask 2-3 AI assistants a real buyer question in the niche, note whether you're mentioned
 3. Turn every gap (not ranking, not mentioned) into a specific content topic for the next batch
-4. Track this alongside the metrics in Shared/03-repurposing-and-tracking.md
+4. Track this alongside saves, shares, and DM replies, the same leading indicators used to judge any other content

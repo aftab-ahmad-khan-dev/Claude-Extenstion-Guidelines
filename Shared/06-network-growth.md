@@ -7,7 +7,7 @@ Growth beyond posting and cold outreach: communities, referral partners, and bei
 
 ### Step-by-Step: Community Presence
 1. Join 3-5 real communities where buyers already are (niche Slack or Discord groups, Reddit communities, IndieHackers, founder communities, platform-adjacent forums)
-2. Show up as a helpful expert first, answering real questions with real value, same 4-step formula as Shared/01-indirect-selling-framework.md
+2. Show up as a helpful expert first, answering real questions with real value: name the real problem, explain why it's tricky, give the real answer, never pitch
 3. Never post a pitch or a link in the first weeks in any community, build recognition before ever mentioning services
 4. Once known, let people ask what you do rather than announcing it
 
@@ -25,7 +25,7 @@ Growth beyond posting and cold outreach: communities, referral partners, and bei
 1. Look for podcasts, newsletters, or channels in the target niche with a real, specific problem worth discussing
 2. Pitch one specific, narrow topic you can speak on with real authority, never a generic "have me on your show"
 3. Every guest appearance teaches one real thing, same as any other content, never turns into a pitch
-4. Repurpose the appearance into content across LinkedIn and Meta (Shared/03-repurposing-and-tracking.md)
+4. Repurpose the appearance into content across every channel the same way any other real insight gets cut into multiple formats
 
 ---
 
@@ -33,4 +33,4 @@ Growth beyond posting and cold outreach: communities, referral partners, and bei
 1. For B2B: prioritize relationships with people who can refer or hire repeatedly (agencies, founders with multiple products, managers likely to move companies)
 2. For B2C: prioritize being the name that indie builders and solopreneurs mention to each other
 3. Stay in touch with warm contacts periodically with something useful (an insight, a relevant piece of content), never a check-in with nothing behind it
-4. Track which network relationships actually produce leads over time and double down on those channels (Shared/03-repurposing-and-tracking.md)
+4. Track which network relationships actually produce leads over time and double down on those channels

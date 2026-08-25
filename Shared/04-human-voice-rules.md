@@ -6,7 +6,7 @@ Applies to every post, comment, DM, email, and proposal in this repo. Content th
 ---
 
 ### Why This Matters
-Buyers and platforms both penalize generic, AI-sounding writing. Buyers stop trusting it, algorithms show it to fewer people, and it undercuts the whole point of Shared/01-indirect-selling-framework.md: proving competence through the writing itself.
+Buyers and platforms both penalize generic, AI-sounding writing. Buyers stop trusting it, algorithms show it to fewer people, and it undercuts the whole point of selling through demonstrated competence: proving it through the writing itself, not by claiming it.
 
 ---
 

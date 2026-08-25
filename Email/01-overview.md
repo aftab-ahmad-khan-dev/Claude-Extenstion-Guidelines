@@ -24,15 +24,7 @@ Target leads that show a real, current problem, not generic prospect lists.
 
 ---
 
-### Other files in this folder
-- 02-cold-outreach.md - cold email, connection notes, and cold DMs: subject lines, message structure, reply handling, sequences and follow-ups (use when reaching out to new leads on any channel)
-- 03-inbound-replies.md - responding to inbound inquiries, discovery, moving to a call or proposal (use when a lead reaches out first)
-- 04-scoring-and-rules.md - effectiveness scoring, final rules
+### What This Playbook Covers
+Beyond this overview: cold outreach across every channel used to reach a stranger (cold email, connection notes, cold DMs: subject lines, message structure, reply handling, sequences and follow-ups), inbound replies (responding to an inquiry that comes in first, discovery, moving to a call or proposal), and effectiveness scoring.
 
-### See also
-- /Shared/01-indirect-selling-framework.md - problem, why-it-fails, better-way, soft-opening structure behind every email
-- /Shared/04-human-voice-rules.md - run every email and DM through this before sending
-- /Shared/05-visibility-seo-geo.md - being found on Google and cited by AI assistants, not just replied to
-- /Shared/06-network-growth.md - referral partners and warm-network follow-up beyond cold contact
-- /Shared/07-pitch-scripts.md - human-voice examples for cold email, DM, and follow-up
-- /Shared/08-contact-info.md - real contact details, reference only, use when a task actually needs them
+It follows the same principles used across every channel in this system: problem, why-it-fails, better-way, soft-opening structure behind every message, run every email and DM through a real human-voice pass before sending, build visibility on Google and with AI assistants rather than relying on replies alone, grow referral partners and warm-network follow-up beyond cold contact, and treat any example message as a voice reference to adapt, never send verbatim. Real contact details (email, phone) are kept separately as reference data, used only when a task genuinely needs them, never surfaced by default.

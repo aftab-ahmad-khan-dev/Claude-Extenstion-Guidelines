@@ -1,6 +1,11 @@
 # LinkedIn - Client Acquisition Flow, Scoring & Final Rules
 **Use this file when:** scoring a content batch, or reviewing the client acquisition flow end to end.
-Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
+
+---
+
+### Autonomous Scoring Rule
+Scoring a content batch or reviewing the acquisition flow is analysis, not publishing, it never needs sign-off. Run the review and report the scorecard.
 
 ---
 
@@ -23,6 +28,8 @@ After every major update or content batch, provide a clear scorecard covering:
 - Client conversion potential
 - Overall progress versus previous version
 - Contribution toward top 3% goal
+
+Report the whole scorecard as one weekly or per-batch summary, not one metric at a time.
 
 ---
 

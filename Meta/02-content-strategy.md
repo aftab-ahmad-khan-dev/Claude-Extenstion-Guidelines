@@ -1,23 +1,23 @@
 # Meta - Content Strategy
 **Use this file when:** planning or writing a post for Instagram, Facebook, or Threads.
-Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
-Apply Shared/01-indirect-selling-framework.md and Shared/02-content-trends-2026.md to every post below.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
+Every post below sells the solution, never the person: name the problem, explain why the common fix fails, teach the real fix, end on a low-pressure question. No pitch, no "DM me for pricing."
 
 ---
 
 ### Approach
-Take the same core ideas used on LinkedIn (see LinkedIn/03-content-strategy.md) and adapt them for Meta: more visual, shorter hook, mobile-native, same problem-to-solution spine.
+Adapt the same problem-to-solution spine used everywhere else in this system for Meta: more visual, shorter hook, mobile-native. If a matching LinkedIn post already exists, start from its sharpest single insight rather than the full text. If not, pull the idea directly from a real project, audit, or client conversation, the same way any other piece of content starts.
 
 ---
 
-### Step-by-Step: Turning a LinkedIn Idea Into a Meta Post
-1. Take the sharpest single insight from the matching LinkedIn post, don't port the full text over
+### Step-by-Step: Writing a Meta Post
+1. Start from one real, specific insight (from an existing LinkedIn post, or straight from a real project), never invent a problem
 2. Rewrite the hook for a 1-3 second scroll-stop (visual and first line together)
 3. Compress the body to one problem and one better-way insight, drop secondary points
 4. Choose the format (see below) that fits a mobile-first, sound-off-friendly viewer
 5. Add a soft engagement question at the end, never a pitch
 6. Get user approval on all visuals before posting
-7. Post through Meta Business Suite on the recommended schedule
+7. Post through Meta Business Suite (Instagram/Facebook) or directly in-app (Threads) on the recommended schedule
 8. Reply to early comments fast to help the algorithm push initial reach
 
 ---
@@ -28,7 +28,7 @@ Take the same core ideas used on LinkedIn (see LinkedIn/03-content-strategy.md) 
 - The-better-way: carousel breakdown, one insight per slide, or a talking-through-it Reel
 - Soft consultation: single clean image or short text-on-screen video
 
-Prioritize Reels and native video for reach, carousels for saves, per current format trends (Shared/02-content-trends-2026.md).
+Current format priority: short vertical video and Reels for reach, native carousels for saves, "build in public" or screen-recording process content over polished announcements. Drop any format that underperforms 2-3 times running.
 
 ---
 

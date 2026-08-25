@@ -1,16 +1,23 @@
 # Email - Effectiveness Scoring & Final Rules
 **Use this file when:** scoring an outreach batch or a major reply.
-Governed by Master Control Rules (see 01-overview.md). No em dash in any output.
+Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates.
+
+---
+
+### Autonomous Scoring Rule
+Scoring an outreach batch or a reply is analysis, not sending, it never needs sign-off. Run the review and report the scorecard.
 
 ---
 
 ### Effectiveness Scoring
-After every outreach batch or major reply, provide scores for:
-- Open / reply-rate potential (cold outreach)
-- Response quality and speed (inbound replies)
-- Call / proposal conversion potential
-- Overall progress versus previous version
-- Contribution toward top 3% goal
+After every outreach batch or major reply, score it on:
+1. Open / reply-rate potential (cold outreach)
+2. Response quality and speed (inbound replies)
+3. Call / proposal conversion potential
+4. Overall progress versus the previous version
+5. Contribution toward the top 3% goal
+
+Report the whole scorecard as one summary per batch, not one metric at a time.
 
 ---
 
