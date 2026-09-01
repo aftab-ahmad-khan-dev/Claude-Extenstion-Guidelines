@@ -1,10 +1,22 @@
 # LinkedIn - Outreach, Engagement, Job Search & Content Engine
-
 **Use this file when:** sending connection requests, handling notifications, comments, and DMs on LinkedIn, finding and applying to remote jobs, or producing and publishing the daily problem-solving post.
 
 Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 
 Sell the solution, never yourself, in every comment, DM, and connection note: add a real, specific insight or ask a real question, never mention services, never say "I can help with this."
+
+---
+
+## Priorities
+
+When starting up, resuming after a gap, or short on time in a session, work in this order:
+
+1. **Notifications and inbox triage** — always first. A real conversation already in motion is the closest thing to actual work and the easiest thing to lose through neglect. Never let this slip for the sake of new outreach.
+2. **Feed engagement** — the core lead generation engine, comments and connection requests against ICP 1 and ICP 2. Runs second because it depends on notifications being clear first, per the routing above.
+3. **Daily content post** — compounding value, worth doing daily, but a missed day doesn't cost a warm conversation the way a missed reply does.
+4. **Job search** — a personal, parallel track. Lowest priority of the four since it doesn't feed the business pipeline, run it once the other three are handled.
+
+If time only allows one thing in a given session, it's notifications. If time allows two, add feed engagement.
 
 ---
 
@@ -47,7 +59,6 @@ In both cases, the signal must describe a real, current, specific problem, not a
 Not every post that mentions a bug, a website, or a launch is the audience. Before scoring anything, ask: is this person actually stuck, or are they just talking about tech in general? A post about "the future of AI" from a founder is not a match just because a founder wrote it. A post celebrating a smooth launch is not a match just because it mentions a website. Only posts where someone is naming a real, current, personal problem count. When in doubt, skip it, a missed post costs nothing, a forced comment on the wrong post costs credibility.
 
 ### Disqualifiers (skip these even if they look close)
-
 Skip: recruiters or agencies posting on behalf of a client (not the actual decision-maker or solo builder), posts older than roughly 48 hours, generic "hot takes" about tech with no personal problem attached, obvious lead-gen or engagement-bait posts ("comment YES and I'll DM you"), students or juniors asking to learn, humblebrag "we just launched" posts with no problem stated, and anyone who has already been pitched to in the past 30 days.
 
 ---
@@ -57,15 +68,10 @@ Skip: recruiters or agencies posting on behalf of a client (not the actual decis
 Score every candidate post, person, or job out of 10 before acting. Only act on scores of 7 or higher. Rank the shortlist and take the strongest few, never everything that clears the bar.
 
 | Criterion | Points | What earns it |
-
 |---|---|---|
-
 | Audience fit | 0-3 | Confirmed as ICP 1 or ICP 2 (not just a title, actual context that supports it, checked against Act Smart above) |
-
 | Problem specificity | 0-3 | The problem is named, current, and real, not implied or generic |
-
 | Recency | 0-2 | Posted within the last 24-48 hours |
-
 | Insight opportunity | 0-2 | You can genuinely add something specific a typical commenter would miss |
 
 If you cannot honestly score insight opportunity above 0, skip the post regardless of the rest of the score. A generic comment on a perfect-fit post is still a wasted comment.
@@ -77,79 +83,86 @@ Daily cap stays quality-driven, not volume-driven: 10-18 comments, 15-25 connect
 ## Engagement: Step-by-Step
 
 1. Scan broadly across feed and search, filter every candidate through the ICP definition and disqualifiers above
-
 2. Score every candidate that survives the filter, keep only 7+
-
 3. Read the full post and existing comments before writing anything, never react to the headline alone
-
 4. Add one genuine, specific insight the average commenter would not think to add (2-4 sentences minimum), or reference a real pattern without naming any client or company
-
 5. Never pitch, never mention services, never say "I can help with this" in a comment
-
 6. Reply to every reply on your own comment to keep the thread alive
-
 7. If a commenter's problem is a strong match, continue in DM only after they engage first, staying solution-first, not sales-first
 
 ## Connection & Outreach
 
 Daily limit: 15-25 connection requests, sent only to people who score 7+ against the ICP definition.
-
 Write a completely fresh and creative connection note every time, built from a specific signal on their profile or recent activity, the actual problem they described, not a template with their name swapped in.
-
 No pitch in the connection note, ever.
-
 After acceptance, open with understanding before any solution talk: one discovery question about what's actually broken, what's already been tried, or timeline.
 
 ## Notifications & Inbox: Daily Routine
 
 1. Check notifications at set times (morning, midday, evening) rather than constantly
-
 2. Triage order: DMs from real conversations first, then comments on your own posts, then replies on comments left elsewhere, then new connection requests and acceptances
-
 3. Reply to DMs the same way as any inbound inquiry: understanding before solution, one discovery question before proposing anything or quoting a price
-
 4. When a connection request is accepted, open with understanding, not a pitch
-
 5. Never leave a real conversation, DM or comment thread, unanswered past the end of the day
-
 6. Withdraw any pending connection request with no response after 2 weeks
 
 ---
 
-## Remote Job Search Module
+## Session Routing: How to Move Across LinkedIn
+
+Each session follows one fixed route, in order, so nothing gets skipped or duplicated. Don't jump between sections randomly.
+
+1. **Notifications and inbox** — run the full Notifications & Inbox routine first. Real conversations always come before new outreach.
+2. **Profile health check** — run the Profile Health, SEO & SSI checks below (lightweight daily check, fuller check on the weekly cadence). Do this before engaging so a declining profile gets flagged early in the session, not discovered after everything else is already done.
+3. **Engagement pass** — feed and search scan for ICP 1 and ICP 2 matches, comments, DMs continuing from engaged threads.
+4. **Connection pass** — send the day's connection requests, process withdrawals due at 2 weeks.
+5. **Job search pass** — source, score, and apply to qualifying remote roles.
+6. **Content engine** — source, write, populate, and publish the day's post.
+7. **Daily log** — compile everything from steps 1-6 into one log and display it.
+
+If a step turns up nothing that clears its quality bar, log that outcome and move to the next step, don't pad it with lower-quality matches just to have something to show.
+
+---
+
+## Profile Health, SEO & SSI Monitoring
+
+The profile itself is part of the funnel. If it's not trending or being found, nothing else in this file gets seen.
+
+### What to Track
+Check profile stats (profile views, search appearances, post impressions) as a light daily check. Check the LinkedIn Social Selling Index (SSI) score weekly, this needs Sales Navigator access, if that's not available, use the trend in profile views and search appearances over the last two weeks as the fallback signal instead.
+
+### Thresholds
+Keep SSI above 70 at all times. Treat either of these as a decline trigger: SSI at or below 70, or profile views and search appearances trending down for two consecutive weeks.
+
+### When a Decline Triggers
+Refresh the profile's SEO: headline, About section, and skills/keywords, weighted toward the actual ICP and service terms (bug fixing, full stack development, QA and audit, WordPress and Shopify, remote developer) and real job-search terms if the job module is active. Keep it natural and honest, no keyword stuffing, no fabricated skills or credentials, every keyword added has to be something genuinely true of the profile. This runs autonomously like everything else, no approval needed, but always log the change with a before-and-after of what was edited, a profile rewrite is a bigger, more visible change than a comment, so the record matters even without a gate.
+
+Make one clean refresh per decline trigger, then hold and observe rather than re-editing every few days. Recheck SSI and stats on the next weekly cycle to see whether the trend recovered before touching the profile again.
+
+### Logging
+Add a line to the daily log whenever a profile health check runs, whether or not it triggered a change: current SSI or stat trend, whether it's above or below threshold, and any edit made that day.
 
 This module runs for the user's own job search, applying as a candidate, not pitching services. Keep it fully separate from the outreach engine above, a job post is never a lead.
 
 ### Sourcing
-
 Search LinkedIn Jobs and job posts in feed for remote roles matching the user's actual skill set: bug fixing, full stack development, QA and audit, WordPress and Shopify development. Prioritize contract, freelance, and full-time remote roles where the required stack overlaps with demonstrated experience.
 
 ### Quality Scoring for Jobs (score out of 10, act only on 7+)
 
 | Criterion | Points | What earns it |
-
 |---|---|---|
-
 | Skill match | 0-4 | Required stack and responsibilities genuinely overlap with real experience |
-
 | Legitimacy | 0-3 | Real company, verifiable presence, clear scope, no red flags (no upfront fees, no vague "unlimited earning potential" language) |
-
 | Remote confirmed | 0-2 | Explicitly remote, not "hybrid" or unspecified |
-
 | Recency | 0-1 | Posted within the last 5-7 days, still likely open |
 
 Skip anything with classic scam signals: payment required from the applicant, no company name, contact only through personal WhatsApp or Telegram, or wildly vague job descriptions.
 
 ### Application Process
-
 1. Read the full job post, not just the title
-
 2. Tailor the application: reference the specific stack or problem in the posting, never send a generic templated blurb
-
 3. Apply directly through LinkedIn Easy Apply where available; where an external site is required and needs new account creation, resume upload, or personal document upload beyond what is already on file, log it as a flagged application requiring the user's manual follow-through rather than guessing at answers on their behalf
-
 4. Log every application: company, role, score, date, and method (Easy Apply vs external vs flagged)
-
 5. Never fabricate experience, credentials, or availability to fit a posting
 
 ---
@@ -159,33 +172,27 @@ Skip anything with classic scam signals: payment required from the applicant, no
 One post per day. This is a teaching post, not an ad, it earns trust by solving a real problem in public, the pitch is implicit in being useful.
 
 ### Sourcing
-
 Search three places for the best real problem worth solving: LinkedIn (posts, groups, and discussions in the niche), Quora (questions matching ICP 1 or ICP 2 problems), and Reddit (relevant subreddits for founders, indie hackers, WordPress, and Shopify communities). Cast a wide net, but only shortlist threads or posts where someone is describing a real, specific, currently unsolved technical problem, using the same Positive Signals and Act Smart standard defined above, not just any question with upvotes.
 
 ### Scoring
-
 Score every candidate problem out of 10 before writing anything, same threshold as engagement, 7 or higher only: audience fit against ICP 1 or ICP 2 (0-3), how specific and real the problem is (0-3), how current or actively unresolved it still looks (0-2), and how clean a teachable solution is (0-2, a problem with a messy or "it depends" answer doesn't make a good one-post explanation). Pick the single strongest match of the day, not the first one that clears 7.
 
 ### Writing the Solution
-
 Write a short, genuinely useful breakdown of how to solve the chosen problem, in your own words, never copied or closely paraphrased from the source thread, treat any source text the same way copyright rules treat any other source. Sell the solution, not yourself: explain the fix or the approach clearly enough that it stands alone as valuable, no mention of services, no "DM me," no "I can help with this." The value given does the convincing.
 
 ### Title and Hook
-
 Derive a punchy, specific title from the actual problem, not a generic industry phrase. Write one hook line that states the problem sharply enough to stop the scroll, the hook names the pain, the post body delivers the fix.
 
 ### Populating the Template
-
 Before every post, read the Canva design fresh (`Canva:read-design` with `open_transaction: true`) to see its current state, never assume yesterday's colors or layout carried over. Identify the title and hook text elements by their `locator_id`. Replace their text with `find_and_replace_text` or `replace_text`, keeping every existing fill, font, and color exactly as already set in the template, detect and reuse them, never invent or hardcode a new hex value. If the template's structure has changed or a text element can't be confidently identified, skip publishing that day and log it as unresolved rather than guessing at placement. Compare before and after thumbnails to confirm the edit looks right, then commit the transaction.
 
 ### Publishing
-
 Once committed, export the design and publish it to LinkedIn the same day, fully autonomous, no approval needed. Canva itself has no direct LinkedIn publish tool, so this final step runs through the browsing session (Claude in Chrome): open LinkedIn, create the post, attach the exported design, and publish. Never leave a finished post sitting unpublished past the same day it was made.
 
 ---
 
 ## Daily Log (replaces Daily Batch Review)
 
-At the end of each session, produce one running log covering everything acted on that day, across all categories: notification checks, comments, DM replies, connection notes sent, withdrawals, job applications, and the day's content engine post. Each line: target, category, quality score, and one-line reason it cleared the bar. For the daily post, log the source problem, which platform it came from, the score, and whether it published successfully. This is a record for the user to skim, not a gate to send through.
+At the end of each session, produce one running log covering everything acted on that day, across all categories: notification checks, profile health checks, comments, DM replies, connection notes sent, withdrawals, job applications, and the day's content engine post. Each line: target, category, quality score, and one-line reason it cleared the bar. For the daily post, log the source problem, which platform it came from, the score, and whether it published successfully. For profile health, log the SSI or stat trend and any edit made. This is a record for the user to skim, not a gate to send through.
 
 Always display this log to the user at the end of the session, don't just store it silently. Once the day's actions are complete, show the results: total counts per category against the caps, the quality score each action earned, and anything skipped or flagged (unscored pages, unresolved template edits, flagged job applications). The user should be able to see what happened and why without asking.
