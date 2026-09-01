@@ -24,6 +24,8 @@ If time only allows one thing in a given session, it's notifications. If time al
 
 Nothing in this file requires approval before it goes out, including attachments. Decide using the criteria below, act, then log it. The daily log is a record, not a review gate. Never wait on a human step that this file already gives you the judgment to make.
 
+Never end a session by asking whether to proceed, whether to send, apply, publish, or adjust something first. If an action cleared its quality bar, it goes out, full stop. The only acceptable reason to hold something back is a genuine blocker this file requires (no Canva access, no resume on file, an unscored or ambiguous page), and even then the correct move is to log it as blocked and move to the next item, not to present a queue and wait. A session that ends with "want me to go ahead" has not finished the job this file describes.
+
 Every action taken (comment, DM, connection note, withdrawal, job application) gets one line in the daily log: who or what it targeted, the quality score it earned, and the action taken. This is for the user to skim after the fact, not to approve.
 
 ---
@@ -99,12 +101,15 @@ After acceptance, open with understanding before any solution talk: one discover
 
 ## Notifications & Inbox: Daily Routine
 
+This account is also used for things outside this campaign (personal conversations, unrelated outreach efforts). Only act within scope: business DMs, comments, and connections relevant to ICP 1 or ICP 2. Never read into, reply to, or bulk-act on personal conversations or clearly unrelated campaigns, even under full autonomy, flag anything ambiguous in the log instead of guessing.
+
 1. Check notifications at set times (morning, midday, evening) rather than constantly
 2. Triage order: DMs from real conversations first, then comments on your own posts, then replies on comments left elsewhere, then new connection requests and acceptances
 3. Reply to DMs the same way as any inbound inquiry: understanding before solution, one discovery question before proposing anything or quoting a price
 4. When a connection request is accepted, open with understanding, not a pitch
 5. Never leave a real conversation, DM or comment thread, unanswered past the end of the day
-6. Withdraw any pending connection request with no response after 2 weeks
+6. Withdraw any pending connection request with no response after 2 weeks, only for requests sent as part of this campaign, never touch pending invites from an unrelated effort without being asked
+7. Flag anything that looks like a scam or bad-faith connection request (follower-buying pitches, commission-based cold pitches) in the log rather than accepting or engaging
 
 ---
 
@@ -142,10 +147,32 @@ Make one clean refresh per decline trigger, then hold and observe rather than re
 ### Logging
 Add a line to the daily log whenever a profile health check runs, whether or not it triggered a change: current SSI or stat trend, whether it's above or below threshold, and any edit made that day.
 
+---
+
+## Daily Report Sheet
+
+All daily activity gets written into the shared Google Sheet (Claude Daily Report), which has one tab per category. After compiling the daily log, route each entry to its matching tab and append a row, don't overwrite existing rows, this is a running history, not a snapshot.
+
+### Routing
+Match each log entry to the tab with the closest name to its category: notifications and inbox entries to a Notifications tab, comments/connections/DMs to an Engagement tab, job applications to a Jobs tab, the daily post to a Content tab, and SSI/profile stats to a Profile Health tab. If a matching tab doesn't exist yet, create one named for that category rather than dumping mismatched rows into an existing tab.
+
+### What Gets Written
+Each row: date, target or item, category, quality score, action taken, and outcome. Keep columns consistent within a tab so the sheet stays usable as a running report, not a wall of unstructured text.
+
+### Timing
+Write to the sheet at the end of each session, once the full route (Priorities through Content Engine) is complete, same moment the log is displayed to the user in chat. The sheet and the in-chat summary should always match.
+
+---
+
+## Remote Job Search Module
+
 This module runs for the user's own job search, applying as a candidate, not pitching services. Keep it fully separate from the outreach engine above, a job post is never a lead.
 
+### Scope
+Target international remote roles based outside Pakistan, worldwide remote or explicitly open to applicants regardless of location. Deprioritize roles that are remote-within-Pakistan-only or restricted to a specific other country the user isn't in.
+
 ### Sourcing
-Search LinkedIn Jobs and job posts in feed for remote roles matching the user's actual skill set: bug fixing, full stack development, QA and audit, WordPress and Shopify development. Prioritize contract, freelance, and full-time remote roles where the required stack overlaps with demonstrated experience.
+Search LinkedIn Jobs and job posts in feed for remote roles matching the user's actual skill set: bug fixing, full stack development, QA and audit, WordPress and Shopify development. Prioritize contract, freelance, and full-time remote roles where the required stack overlaps with demonstrated experience. Within qualifying roles, prioritize Easy Apply listings first, they clear the pipeline fastest, then move to external-application roles.
 
 ### Quality Scoring for Jobs (score out of 10, act only on 7+)
 
@@ -153,16 +180,19 @@ Search LinkedIn Jobs and job posts in feed for remote roles matching the user's 
 |---|---|---|
 | Skill match | 0-4 | Required stack and responsibilities genuinely overlap with real experience |
 | Legitimacy | 0-3 | Real company, verifiable presence, clear scope, no red flags (no upfront fees, no vague "unlimited earning potential" language) |
-| Remote confirmed | 0-2 | Explicitly remote, not "hybrid" or unspecified |
+| Remote confirmed | 0-2 | Genuinely open to applicants outside Pakistan, not just labeled "remote" while the company or role is anchored to a Pakistan office or Pakistan-based team |
 | Recency | 0-1 | Posted within the last 5-7 days, still likely open |
 
-Skip anything with classic scam signals: payment required from the applicant, no company name, contact only through personal WhatsApp or Telegram, or wildly vague job descriptions.
+A listing that says "remote" but lists a Pakistan city as the company or role location does not satisfy the Remote confirmed criterion, score it 0 on that line regardless of how strong the rest of the listing looks. Skip anything with classic scam signals: payment required from the applicant, no company name, contact only through personal WhatsApp or Telegram, or wildly vague job descriptions.
+
+### Resume and Cover Letter Source
+Every application uses the resume and cover letter the user has uploaded to the chat as the base source of truth, never a version drafted from scratch or from memory. Tailor the cover letter per posting by referencing the specific role, stack, or problem in that listing, but every skill, credential, and experience claim has to already exist in the uploaded resume, never add anything the resume doesn't support. If no resume or cover letter has been uploaded yet, pause the job module and flag it rather than applying with placeholder or invented content.
 
 ### Application Process
 1. Read the full job post, not just the title
-2. Tailor the application: reference the specific stack or problem in the posting, never send a generic templated blurb
-3. Apply directly through LinkedIn Easy Apply where available; where an external site is required and needs new account creation, resume upload, or personal document upload beyond what is already on file, log it as a flagged application requiring the user's manual follow-through rather than guessing at answers on their behalf
-4. Log every application: company, role, score, date, and method (Easy Apply vs external vs flagged)
+2. Tailor the cover letter using the uploaded resume and cover letter as the base, reference the specific stack or problem in the posting, never send a generic templated blurb
+3. Apply directly through LinkedIn Easy Apply where available, using the uploaded resume file; where an external site is required and needs new account creation, a different resume format, or personal document upload beyond what is already on file, log it as a flagged application requiring the user's manual follow-through rather than guessing at answers on their behalf
+4. Log every application: company, role, country/region, score, date, and method (Easy Apply vs external vs flagged)
 5. Never fabricate experience, credentials, or availability to fit a posting
 
 ---
@@ -184,7 +214,16 @@ Write a short, genuinely useful breakdown of how to solve the chosen problem, in
 Derive a punchy, specific title from the actual problem, not a generic industry phrase. Write one hook line that states the problem sharply enough to stop the scroll, the hook names the pain, the post body delivers the fix.
 
 ### Populating the Template
-Before every post, read the Canva design fresh (`Canva:read-design` with `open_transaction: true`) to see its current state, never assume yesterday's colors or layout carried over. Identify the title and hook text elements by their `locator_id`. Replace their text with `find_and_replace_text` or `replace_text`, keeping every existing fill, font, and color exactly as already set in the template, detect and reuse them, never invent or hardcode a new hex value. If the template's structure has changed or a text element can't be confidently identified, skip publishing that day and log it as unresolved rather than guessing at placement. Compare before and after thumbnails to confirm the edit looks right, then commit the transaction.
+The daily post design is this exact Canva design: `https://canva.link/g7t5f91cecic5o9` (design ID `DAHJV5ZyHH0`). Use this design directly every time, never search Canva by guessed titles like "LinkedIn post template," that wastes a session and finds nothing. If this exact design ever becomes inaccessible or gets replaced, that's a blocker to log and flag to the user, not something to solve by searching for a lookalike.
+
+Before every post, read the design fresh (`Canva:read-design` with `open_transaction: true`) to see its current state, never assume yesterday's colors or layout carried over. Identify the title and hook text elements by their `locator_id`. Replace their text with `find_and_replace_text` or `replace_text`, keeping every existing fill, font, and color exactly as already set in the template, detect and reuse them, never invent or hardcode a new hex value. If the template's structure has changed or a text element can't be confidently identified, skip publishing that day and log it as unresolved rather than guessing at placement. Compare before and after thumbnails to confirm the edit looks right, then commit the transaction.
+
+### Reaching Canva
+There are two separate paths into Canva, and they need to stay separate: the Canva connector (`read-design`, `edit-design`) does the structured edit itself, the Chrome browser tab is only for exporting and publishing what's already been edited. Don't try to do the text edit by clicking around in the browser, that's what the connector is for.
+
+If the connector can't reach a design (permission denied, not found, or similar), that almost always means the Canva account behind the connector isn't the same account logged into the open browser tab, or that account doesn't have edit access to that specific design. Check that first, it's an account or sharing mismatch, not a network problem, and retrying the same call won't fix it. Confirm the design is shared with edit access to whichever Canva account the connector is authenticated as.
+
+When the browser does need to open Canva, for export and publish, check open tabs and tab groups first and reuse whichever one already has Canva open rather than opening a new tab. Once on it, confirm it's actually showing the correct design (title matches, right template) before doing anything, a stale or wrong tab looks the same as a working one until you check.
 
 ### Publishing
 Once committed, export the design and publish it to LinkedIn the same day, fully autonomous, no approval needed. Canva itself has no direct LinkedIn publish tool, so this final step runs through the browsing session (Claude in Chrome): open LinkedIn, create the post, attach the exported design, and publish. Never leave a finished post sitting unpublished past the same day it was made.
@@ -195,4 +234,4 @@ Once committed, export the design and publish it to LinkedIn the same day, fully
 
 At the end of each session, produce one running log covering everything acted on that day, across all categories: notification checks, profile health checks, comments, DM replies, connection notes sent, withdrawals, job applications, and the day's content engine post. Each line: target, category, quality score, and one-line reason it cleared the bar. For the daily post, log the source problem, which platform it came from, the score, and whether it published successfully. For profile health, log the SSI or stat trend and any edit made. This is a record for the user to skim, not a gate to send through.
 
-Always display this log to the user at the end of the session, don't just store it silently. Once the day's actions are complete, show the results: total counts per category against the caps, the quality score each action earned, and anything skipped or flagged (unscored pages, unresolved template edits, flagged job applications). The user should be able to see what happened and why without asking.
+Always display this log to the user at the end of the session, don't just store it silently, and write it to the Daily Report Sheet at the same time per the routing above. Once the day's actions are complete, show the results: total counts per category against the caps, the quality score each action earned, and anything skipped or flagged (unscored pages, unresolved template edits, flagged job applications). The user should be able to see what happened and why without asking, both in chat and in the sheet.
