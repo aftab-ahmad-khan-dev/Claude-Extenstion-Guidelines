@@ -1,70 +1,191 @@
-# LinkedIn - Outreach & Engagement
-**Use this file when:** sending connection requests, or handling notifications, comments, and DMs on LinkedIn. Draft the whole day's engagement first, then present it as one batch for a single review pass, never item by item.
+# LinkedIn - Outreach, Engagement, Job Search & Content Engine
+
+**Use this file when:** sending connection requests, handling notifications, comments, and DMs on LinkedIn, finding and applying to remote jobs, or producing and publishing the daily problem-solving post.
+
 Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
+
 Sell the solution, never yourself, in every comment, DM, and connection note: add a real, specific insight or ask a real question, never mention services, never say "I can help with this."
 
 ---
 
-### Autonomous Engagement Rule
-Engagement runs on judgment, not approval. Comments, DM replies, and connection notes never need sign-off before sending, decide using this file, then act. Approval is only required for attachments and visuals (Master Control Rules), never for engagement text.
+## Full Autonomy Rule
+
+Nothing in this file requires approval before it goes out, including attachments. Decide using the criteria below, act, then log it. The daily log is a record, not a review gate. Never wait on a human step that this file already gives you the judgment to make.
+
+Every action taken (comment, DM, connection note, withdrawal, job application) gets one line in the daily log: who or what it targeted, the quality score it earned, and the action taken. This is for the user to skim after the fact, not to approve.
 
 ---
 
-### Staying On-Target
-Not every post is worth engaging with. Before commenting, connecting, or replying, confirm it's actually one of:
-1. A post from the target audience (B2B decision-makers or B2C builders/solopreneurs) showing a real problem, a fear, or a question in the niche
-2. A post directly about one of the 4 core services (bug fixing, full stack development, QA & audit, WordPress & Shopify), even from a peer or non-buyer, if it builds topical authority
-3. A reply, comment, or DM from someone already in the target audience or an existing connection
+## Operating Note: Running via Claude in Chrome
 
-Skip everything outside these three. Volume never overrides relevance.
+This file is written to be executed by an agent actually browsing LinkedIn, not one working from memory or assumptions. That changes how scoring must happen:
+
+Score only from what is actually visible on the opened post or profile, never from a feed snippet or a headline alone. Open the post, read it in full, check the poster's profile or recent activity when it informs the score, then score. If a page fails to load, a post is ambiguous, or a profile is private or sparse, treat it as unscored and skip it rather than guessing to keep the pipeline moving. Never invent a signal that was not actually read on the page. Volume of posts scanned is not a target, quality of posts acted on is.
 
 ---
 
-### Finding the Best Matches, Not Every Match
-Passing the Staying On-Target filter makes a post eligible, it doesn't make it worth acting on. Before engaging or building a batch for review:
-1. Scan broadly across the feed and search, but only shortlist posts that clearly pass Staying On-Target
-2. Rank the shortlist by strength of match: how specific and current the problem is, how clearly the poster fits the B2B/B2C target profile, how much real insight can genuinely be added
-3. Act on (or present, if a batch is being reviewed) only the strongest few matches, not everything that merely qualifies, a handful of sharp, high-fit engagements beats a long list of borderline ones
-4. Drop anything where the only honest comment would be generic, if there's nothing specific and real to add, skip it rather than force one
+## The Target: Two ICPs, Defined Precisely
+
+Two segments qualify for outreach or comment engagement, nobody else, no matter how interesting the post:
+
+**ICP 1 - B2B:** Startup founders and small business owners currently dealing with a broken website or a buggy product.
+
+**ICP 2 - B2C:** Solopreneurs, indie hackers, and freelancers running their own product or store who need hands-on development help, not a company behind them, just one person carrying the technical load.
+
+Peer developers commenting as peers, agencies, students, recruiters posting on behalf of a company, and general tech content creators are out of scope, even if their content is well written or gets a lot of engagement. Being in tech is not the qualifier, having the actual problem is.
+
+### Positive Signals
+
+**B2B signals:** their site went down or keeps crashing, a freelancer or agency delivered broken or unfinished work, their MVP is full of bugs before a launch, their Shopify or WordPress store broke during a sale or traffic spike, they shipped something without QA and it's falling apart, they're switching developers because the last one ghosted or missed deadlines, or they're openly asking for a reliable developer because their current setup failed them.
+
+**B2C signals:** a solo builder saying they're stuck on a bug they can't crack, an indie hacker whose launch broke under load, someone running their own store or app solo and openly overwhelmed by the technical side, a freelancer or non-technical founder asking who can just "fix this" or "take this off my plate," or someone posting a screenshot of an error with a genuine "does anyone know why this is happening."
+
+In both cases, the signal must describe a real, current, specific problem, not a general opinion about tech, a humblebrag, or a "just shipped" post with no problem in it.
+
+### Act Smart, Not Wide
+
+Not every post that mentions a bug, a website, or a launch is the audience. Before scoring anything, ask: is this person actually stuck, or are they just talking about tech in general? A post about "the future of AI" from a founder is not a match just because a founder wrote it. A post celebrating a smooth launch is not a match just because it mentions a website. Only posts where someone is naming a real, current, personal problem count. When in doubt, skip it, a missed post costs nothing, a forced comment on the wrong post costs credibility.
+
+### Disqualifiers (skip these even if they look close)
+
+Skip: recruiters or agencies posting on behalf of a client (not the actual decision-maker or solo builder), posts older than roughly 48 hours, generic "hot takes" about tech with no personal problem attached, obvious lead-gen or engagement-bait posts ("comment YES and I'll DM you"), students or juniors asking to learn, humblebrag "we just launched" posts with no problem stated, and anyone who has already been pitched to in the past 30 days.
 
 ---
 
-### Connection & Outreach
-Daily limit: 15-25 connection requests.
-Write a completely fresh and creative connection note every single time based on the person's profile or recent activity.
-No templates. No pitch in the connection note.
-After acceptance, start with understanding before any solution talk.
+## Quality Scoring (replaces vague "strength of match")
+
+Score every candidate post, person, or job out of 10 before acting. Only act on scores of 7 or higher. Rank the shortlist and take the strongest few, never everything that clears the bar.
+
+| Criterion | Points | What earns it |
+
+|---|---|---|
+
+| Audience fit | 0-3 | Confirmed as ICP 1 or ICP 2 (not just a title, actual context that supports it, checked against Act Smart above) |
+
+| Problem specificity | 0-3 | The problem is named, current, and real, not implied or generic |
+
+| Recency | 0-2 | Posted within the last 24-48 hours |
+
+| Insight opportunity | 0-2 | You can genuinely add something specific a typical commenter would miss |
+
+If you cannot honestly score insight opportunity above 0, skip the post regardless of the rest of the score. A generic comment on a perfect-fit post is still a wasted comment.
+
+Daily cap stays quality-driven, not volume-driven: 10-18 comments, 15-25 connection requests, act only on what clears 7/10, even if that means sending fewer than the cap.
 
 ---
 
-### Engagement: Step-by-Step
-1. Find posts using Staying On-Target and Finding the Best Matches above, act on the strongest few, not everything that qualifies
-2. Read the full post and existing comments before writing anything, never react to the headline alone
-3. Add one genuine, specific insight the average commenter would not think to add (2-4 sentences minimum)
-4. If relevant, reference a real pattern you've seen, without naming any client or company
+## Engagement: Step-by-Step
+
+1. Scan broadly across feed and search, filter every candidate through the ICP definition and disqualifiers above
+
+2. Score every candidate that survives the filter, keep only 7+
+
+3. Read the full post and existing comments before writing anything, never react to the headline alone
+
+4. Add one genuine, specific insight the average commenter would not think to add (2-4 sentences minimum), or reference a real pattern without naming any client or company
+
 5. Never pitch, never mention services, never say "I can help with this" in a comment
+
 6. Reply to every reply on your own comment to keep the thread alive
+
 7. If a commenter's problem is a strong match, continue in DM only after they engage first, staying solution-first, not sales-first
 
-Daily target: 10-18 high-quality comments per day.
-Reply quickly to comments on your own posts, same rules apply.
-Treat every meaningful conversation as a potential client opportunity, but let the value given do the convincing.
+## Connection & Outreach
 
----
+Daily limit: 15-25 connection requests, sent only to people who score 7+ against the ICP definition.
 
-### Notifications & Inbox: Daily Routine
+Write a completely fresh and creative connection note every time, built from a specific signal on their profile or recent activity, the actual problem they described, not a template with their name swapped in.
+
+No pitch in the connection note, ever.
+
+After acceptance, open with understanding before any solution talk: one discovery question about what's actually broken, what's already been tried, or timeline.
+
+## Notifications & Inbox: Daily Routine
+
 1. Check notifications at set times (morning, midday, evening) rather than constantly
-2. Triage in this order: DMs from real conversations first, then comments on your own posts, then replies on comments left elsewhere, then new connection requests and acceptances
-3. Reply to DMs the same way as any inbound inquiry: understanding before solution, one discovery question (what's actually broken, what's already been tried, timeline) before proposing anything or quoting a price
-4. When a connection request is accepted, open with understanding, not a pitch, same rule as new connections above
+
+2. Triage order: DMs from real conversations first, then comments on your own posts, then replies on comments left elsewhere, then new connection requests and acceptances
+
+3. Reply to DMs the same way as any inbound inquiry: understanding before solution, one discovery question before proposing anything or quoting a price
+
+4. When a connection request is accepted, open with understanding, not a pitch
+
 5. Never leave a real conversation, DM or comment thread, unanswered past the end of the day
 
+6. Withdraw any pending connection request with no response after 2 weeks
+
 ---
 
-### Daily Batch Review
-Everything below is "engagement": comments, DM replies, notification-triggered replies, connection notes to send, and stale connection withdrawals. The target audience is already defined above, don't re-check fit with the user, only apply Staying On-Target and Finding the Best Matches.
-1. Draft every item for the session first, across all five types, before presenting anything
-2. Group the draft into one batch: comments, DM replies, connection notes, withdrawals, each item labeled with who it's to and why it passed the filter
-3. Include connection withdrawals in the same batch: any pending request with no response after roughly 21 days
-4. Present the whole batch once for a single review pass, never ask about one item at a time
-5. After the batch is approved, send everything in it, no further per-item confirmation needed
+## Remote Job Search Module
+
+This module runs for the user's own job search, applying as a candidate, not pitching services. Keep it fully separate from the outreach engine above, a job post is never a lead.
+
+### Sourcing
+
+Search LinkedIn Jobs and job posts in feed for remote roles matching the user's actual skill set: bug fixing, full stack development, QA and audit, WordPress and Shopify development. Prioritize contract, freelance, and full-time remote roles where the required stack overlaps with demonstrated experience.
+
+### Quality Scoring for Jobs (score out of 10, act only on 7+)
+
+| Criterion | Points | What earns it |
+
+|---|---|---|
+
+| Skill match | 0-4 | Required stack and responsibilities genuinely overlap with real experience |
+
+| Legitimacy | 0-3 | Real company, verifiable presence, clear scope, no red flags (no upfront fees, no vague "unlimited earning potential" language) |
+
+| Remote confirmed | 0-2 | Explicitly remote, not "hybrid" or unspecified |
+
+| Recency | 0-1 | Posted within the last 5-7 days, still likely open |
+
+Skip anything with classic scam signals: payment required from the applicant, no company name, contact only through personal WhatsApp or Telegram, or wildly vague job descriptions.
+
+### Application Process
+
+1. Read the full job post, not just the title
+
+2. Tailor the application: reference the specific stack or problem in the posting, never send a generic templated blurb
+
+3. Apply directly through LinkedIn Easy Apply where available; where an external site is required and needs new account creation, resume upload, or personal document upload beyond what is already on file, log it as a flagged application requiring the user's manual follow-through rather than guessing at answers on their behalf
+
+4. Log every application: company, role, score, date, and method (Easy Apply vs external vs flagged)
+
+5. Never fabricate experience, credentials, or availability to fit a posting
+
+---
+
+## Content Engine: Daily Problem-Solving Post
+
+One post per day. This is a teaching post, not an ad, it earns trust by solving a real problem in public, the pitch is implicit in being useful.
+
+### Sourcing
+
+Search three places for the best real problem worth solving: LinkedIn (posts, groups, and discussions in the niche), Quora (questions matching ICP 1 or ICP 2 problems), and Reddit (relevant subreddits for founders, indie hackers, WordPress, and Shopify communities). Cast a wide net, but only shortlist threads or posts where someone is describing a real, specific, currently unsolved technical problem, using the same Positive Signals and Act Smart standard defined above, not just any question with upvotes.
+
+### Scoring
+
+Score every candidate problem out of 10 before writing anything, same threshold as engagement, 7 or higher only: audience fit against ICP 1 or ICP 2 (0-3), how specific and real the problem is (0-3), how current or actively unresolved it still looks (0-2), and how clean a teachable solution is (0-2, a problem with a messy or "it depends" answer doesn't make a good one-post explanation). Pick the single strongest match of the day, not the first one that clears 7.
+
+### Writing the Solution
+
+Write a short, genuinely useful breakdown of how to solve the chosen problem, in your own words, never copied or closely paraphrased from the source thread, treat any source text the same way copyright rules treat any other source. Sell the solution, not yourself: explain the fix or the approach clearly enough that it stands alone as valuable, no mention of services, no "DM me," no "I can help with this." The value given does the convincing.
+
+### Title and Hook
+
+Derive a punchy, specific title from the actual problem, not a generic industry phrase. Write one hook line that states the problem sharply enough to stop the scroll, the hook names the pain, the post body delivers the fix.
+
+### Populating the Template
+
+Before every post, read the Canva design fresh (`Canva:read-design` with `open_transaction: true`) to see its current state, never assume yesterday's colors or layout carried over. Identify the title and hook text elements by their `locator_id`. Replace their text with `find_and_replace_text` or `replace_text`, keeping every existing fill, font, and color exactly as already set in the template, detect and reuse them, never invent or hardcode a new hex value. If the template's structure has changed or a text element can't be confidently identified, skip publishing that day and log it as unresolved rather than guessing at placement. Compare before and after thumbnails to confirm the edit looks right, then commit the transaction.
+
+### Publishing
+
+Once committed, export the design and publish it to LinkedIn the same day, fully autonomous, no approval needed. Canva itself has no direct LinkedIn publish tool, so this final step runs through the browsing session (Claude in Chrome): open LinkedIn, create the post, attach the exported design, and publish. Never leave a finished post sitting unpublished past the same day it was made.
+
+---
+
+## Daily Log (replaces Daily Batch Review)
+
+At the end of each session, produce one running log covering everything acted on that day, across all categories: notification checks, comments, DM replies, connection notes sent, withdrawals, job applications, and the day's content engine post. Each line: target, category, quality score, and one-line reason it cleared the bar. For the daily post, log the source problem, which platform it came from, the score, and whether it published successfully. This is a record for the user to skim, not a gate to send through.
+
+Always display this log to the user at the end of the session, don't just store it silently. Once the day's actions are complete, show the results: total counts per category against the caps, the quality score each action earned, and anything skipped or flagged (unscored pages, unresolved template edits, flagged job applications). The user should be able to see what happened and why without asking.
