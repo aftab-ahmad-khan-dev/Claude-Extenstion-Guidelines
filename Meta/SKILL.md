@@ -30,6 +30,9 @@ Instagram/Facebook: once a post's copy and visual are approved, queue the week's
 3. **Proactive**: find target accounts via Staying On-Target above, comment genuinely first, never a cold DM to a stranger with zero prior engagement — that reads as spam. Once a real interaction exists, DM problem-first in 1-2 sentences (prove you looked at their specific post), no pitch in the opener, end with one easy question. Daily cap: proactive comments+replies+DMs combined roughly 15-20/account/platform, quality over volume.
 4. Reply to every reply on your own DM/comment threads before end of day — never leave a real conversation hanging overnight.
 
+## Don't stop at a shallow pass
+The daily cap (roughly 15-20/account/platform) is a target to work toward, not a ceiling you're relieved to fall short of. "Nothing qualified" after one look at one app's feed is stopping early, not a finished sweep — run several searches/hashtags per platform, check all three apps, and scroll more than once before concluding there's nothing to act on. Keep working the sweep until the cap is genuinely met or you can point to a real, varied search across all three apps and honestly say there wasn't enough today — and log what was actually searched when a step lands under target, so "nothing found" is a documented result, not a shortcut.
+
 ## Voice (apply to every draft)
 Never "DM me for pricing," never lead with an announcement. Cut AI-tell phrases, use contractions, vary sentence rhythm, lead with a concrete detail, end on a real specific question. Read it back before it enters the approval batch — if it reads like marketing copy, rewrite it.
 
