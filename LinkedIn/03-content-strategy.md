@@ -1,47 +1,56 @@
-# LinkedIn - Content Strategy
-**Use this file when:** planning, writing, or choosing visuals for a LinkedIn post.
-Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
-Every post below sells the solution, never the person: name the problem, explain why the common fix fails, teach the real fix, end on a low-pressure question or opening. No pitch, no "I offer," no "message me."
+# LinkedIn Content Strategy
 
----
+### Posting Frequency
+3–5 high-quality posts per week.  
+Daily posting is not required and often reduces quality.
 
-### Posting Cadence
-Post 3-5 times per week. Mix formats across the week instead of repeating one format daily. Current formats worth prioritizing: short vertical video and native carousel/document posts for reach and saves, plain high-insight text when the first two lines earn the expand click. Drop any format that underperforms 2-3 times running.
+### Winning Content Formula (2026)
+1. Open with a specific, real problem or contrarian observation
+2. Show why the common approach usually fails
+3. Teach the better way with concrete detail
+4. Close with a thoughtful question or soft observation
 
----
+### Content Pillars (Recommended Mix)
+- 40% Real problems & technical realities of building AI/software
+- 25% Frameworks and better approaches
+- 20% Behind-the-scenes lessons from projects
+- 15% Soft proof / results-oriented insights
 
-### Content Pillars
-Each pillar runs through the 4-step formula:
-1. Problem awareness - name a real, current problem before the reader has fully articulated it
-2. Why-it-fails - break down why the generic or cheap fix to that problem backfires
-3. The-better-way - teach the real fix or the right way to think about it, give away genuine value
-4. Soft consultation - "if you're currently stuck on this" posts that open a door without pitching
+### Priority Tech Trends to Cover
+- Agentic AI / AI Agents
+- AI-native development
+- Multi-agent systems
+- AI for software engineering (coding, testing, debugging)
+- Tiny teams + AI productivity
+- Context engineering for reliable AI systems
+- Moving from AI features to AI-first products
+- Real limitations and failure points of current AI tools
 
----
+### Strong Formats
+- Carousels / Document posts (highest engagement)
+- Long-form text posts with strong hooks
+- Short founder observations with specific numbers or examples
 
-### Step-by-Step: Turning One Idea Into a Post
-1. Pull the idea from a real project, audit, or buyer/client conversation, never invent a problem
-2. Write the hook: the first 1-2 lines must state the problem sharper than the reader could state it themselves
-3. Write the body using the 4-step formula: problem, why it fails, the better way, soft opening
-4. Layer both audiences into the same post: frame cost/risk/scale for the B2B reader, frustration/effort for the B2C reader
-5. Choose the visual (see below) and prepare it
-6. Get user approval on any image, carousel, or video before posting
-7. Post, then engage with every comment within the first hour to maximize reach
-8. Log the post in the content bank and repurpose it: cut the sharpest insight into a Reel/DM opener and a cold-email subject line so one idea covers every channel
+### Writing Rules
+- Never open with “I offer” or “I help companies…”
+- Never end with “DM me” or “Let’s connect if you need this”
+- Lead with specificity and real experience
+- Prefer concrete examples over abstract advice
 
----
+### Canva Visuals – Design Rules (2026)
+- Preferred size: 1080 × 1350 px (4:5 portrait)
+- Ideal carousel length: 8–12 slides
+- One clear idea per slide
+- Big readable text (minimum 24–28 pt body)
+- High contrast and generous white space
+- Strong cover slide (this is the only thing visible before swiping)
+- Clean, professional look — avoid clutter and random stock photos
+- Keep fonts, colors, and layout consistent
 
-### Visual Ideas by Post Type
-- Problem awareness: a real, approved, anonymized screen recording or screenshot showing the actual issue
-- Why-it-fails: a simple before/after or a two-column comparison graphic (generic fix vs real fix)
-- The-better-way: a native carousel/document post, one clear point per slide, clean and minimal
-- Soft consultation: plain text or a single strong image, no heavy design needed
-
-All visuals: Canva free plan only, full Image Footprint Removal Rule, user approval required before posting.
-
----
-
-### Never Do
-- Never write "I offer" or "I provide" as the opening frame
-- Never end a post with "message me to get started"
-- Never post generic advice with no real example behind it
+### Canva Process
+1. Finalize the post text first
+2. Open the template from `canva-template.md`
+3. Replace only the headline and key supporting text
+4. Preserve original fonts, colors, and spacing
+5. Ensure clean alignment and no overlaps
+6. Present both text + visual for approval
