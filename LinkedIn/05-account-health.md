@@ -1,22 +1,33 @@
 # LinkedIn - SSI & Account Health
-**Use this file when:** doing the weekly SSI check or cleaning up pending connections.
-Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
 
----
+**Use this file when:** checking account health, SSI score, or cleaning up pending connections.
 
-### Autonomous Maintenance Rule
-Checking SSI and withdrawing stale connection requests never needs sign-off, both are read-only or low-risk housekeeping, do them and report the result.
+### Goal
+Keep the account healthy and visible so content and outreach perform well over time.
 
----
+### What to Track
+- Profile views
+- Search appearances
+- Post impressions
+- Social Selling Index (SSI) score (if available)
 
-### Weekly Check: Step-by-Step
-1. Check SSI every Monday using Embers tool plus the official LinkedIn SSI score
-2. Compare against the prior week, note the direction of movement, not just the number
-3. Keep the score above 60, target 70+, flag it if it's trending down two weeks running
-4. Withdraw any pending connection request older than roughly 21 days with no response, this can be folded into the same daily engagement batch rather than a separate weekly pass
-5. Spend a daily 25-30 minute maintenance window on visibility and relationships: profile views, who's engaging, who hasn't been followed up with
+### Weekly Check (Recommended)
+1. Check SSI score (or use profile views + search appearances as fallback)
+2. Note the direction of the trend (up, flat, or down)
+3. Withdraw pending connection requests older than 2–3 weeks with no response
+4. Review recent engagement quality
 
----
+### Health Thresholds
+- Aim to keep SSI above 70 (if available)
+- Watch for declining profile views or search appearances over 2 consecutive weeks
 
-### Batch Reporting
-Report the SSI result and the list of withdrawn connections together as one weekly summary, not as separate interruptions during the week.
+### When Health Drops
+- Review and refresh the profile using `07-profile-optimization.md`
+- Focus on higher quality engagement instead of increasing volume
+- Make only one clean profile update, then observe for 1–2 weeks
+
+### Rules
+- Never force high volume to improve scores
+- Quality of engagement matters more than quantity
+- Keep pending connection requests clean
+- Report the health status simply at the end of the relevant session
