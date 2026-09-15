@@ -1,40 +1,26 @@
-# LinkedIn - Client Acquisition Flow, Scoring & Final Rules
-**Use this file when:** scoring a content batch, or reviewing the client acquisition flow end to end.
-Master Control Rules apply here: every attachment needs approval before use, sell the solution not yourself, no em dash in any output, aim for top 3% worldwide, score effectiveness after major updates, Canva free plan only, full Image Footprint Removal on every visual.
+# LinkedIn Scoring & Final Rules
 
----
+### Quality Scoring (Act only on 7+)
 
-### Autonomous Scoring Rule
-Scoring a content batch or reviewing the acquisition flow is analysis, not publishing, it never needs sign-off. Run the review and report the scorecard.
+| Criterion               | Points | Description                                      |
+|-------------------------|--------|--------------------------------------------------|
+| Audience Fit            | 0–3    | Clear match with Primary or Secondary ICP        |
+| Problem Specificity     | 0–3    | Real, current, and clearly stated problem        |
+| Insight Opportunity     | 0–2    | You can add genuine non-generic value            |
+| Timing / Recency        | 0–2    | Recent activity or strong timing signal          |
 
----
+**Hard Rule:** If Insight Opportunity = 0, skip the opportunity.
 
 ### Client Acquisition Flow
-1. Attract with strong problem-solution content
-2. Engage meaningfully
-3. Connect with personalized notes
-4. Understand the real problem deeply
-5. Position the precise custom solution
-6. Convert only when the fit is clear
+1. Attract with specific, useful content
+2. Engage with real value
+3. Connect with personalized, low-pressure notes
+4. Discover the real problem
+5. Position the solution only when fit is clear
 
----
-
-### Effectiveness Scoring
-After every major update or content batch, provide a clear scorecard covering:
-- Impressions & reach potential
-- Engagement potential
-- Profile visibility potential
-- Inbox & conversation potential
-- Client conversion potential
-- Overall progress versus previous version
-- Contribution toward top 3% goal
-
-Report the whole scorecard as one weekly or per-batch summary, not one metric at a time.
-
----
-
-### Final Rules
-- Every attachment must be approved before use
-- Skip any section that is already performing at a high level
-- Always maximize impressions, clicks, reactions, comments, inboxes, and conversions
-- The solution and problem-fix are always the hero
+### Final Operating Rules
+- Always sell the solution, never yourself
+- Quality over volume
+- Never force low-quality actions
+- Always get human approval before sending or publishing
+- Keep tone natural and human
