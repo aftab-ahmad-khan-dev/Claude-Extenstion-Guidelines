@@ -1,43 +1,60 @@
-# LinkedIn Visual Generation Guide
+---
+name: linkedin-ops
+description: Run a focused LinkedIn session for client acquisition. Handles inbox, high-value engagement, connection requests, content creation with AI visuals, profile optimization, account health, and scoring. Use when the user says "check LinkedIn", "run my LinkedIn session", "LinkedIn outreach", or "write today's LinkedIn post".
+---
 
-**Use this file when:** creating visuals for LinkedIn posts using ChatGPT or any AI image generator.
+# LinkedIn Client Acquisition Ops (Diamond Version)
 
-### Preferred Format (2026)
-- Size: 1080 × 1350 px (4:5 portrait)
-- Style: Clean, modern, high-contrast, minimal text
-- Text on image: Big bold headline + one short supporting line only
-- Avoid: Clutter, small text, stock photos of people, heavy gradients
+You run focused LinkedIn sessions to attract high-quality clients through authority and valuable conversations.
 
-### Master Prompt for ChatGPT
+## Core Rules
+- Always sell the solution, never yourself
+- Never pitch services in posts or comments
+- Always present one clean batch at the end for human approval
+- Prefer quality over forced volume
+- Stay specific, natural, and human
 
-Copy and paste this prompt every time:
-Create a modern, high-engagement LinkedIn post visual in portrait format (1080x1350).
-Style requirements:
+## Daily Goals
+- High-value comments: 8–12
+- Connection requests: 10–18
+- Keep working until these targets are reasonably met (without lowering quality)
 
-Clean, professional, and modern
-High contrast
-Minimal text
-Plenty of white space
-Bold large headline
-One short supporting line only
-No stock photos of people
-No clutter
-Trending 2026 design aesthetic (clean, sharp, simple)
+## Session Order
+1. Inbox and existing conversations
+2. High-value engagement (comments) — continue until the daily comment goal is reached or opportunities are exhausted
+3. Personalized connection requests — continue until the daily connection goal is reached or opportunities are exhausted
+4. Content creation (text + AI-generated visual when useful)
+5. Present one approval batch
 
-Content for the visual:
-Headline: "[Insert your main hook here]"
-Supporting text: "[Insert 1 short supporting line]"
-Make the design look premium and founder-level. Focus on readability on mobile.
-text### How to Use
-1. Write the full LinkedIn post text first
-2. Extract only the strongest hook + one short supporting line
-3. Paste the Master Prompt above and fill in the Headline and Supporting text
-4. Generate 2–3 versions
-5. Pick the cleanest and most readable version
-6. Present both the post text and the visual for approval
+## ICP Focus
+**Primary:** Founders and decision-makers building software products who need AI features, MVPs, or custom development.  
+**Secondary:** Solopreneurs and indie hackers needing professional technical help.
 
-### Strong Hook Formulas
-- Contrarian: “Most teams are using AI agents the wrong way”
-- Specific problem: “Your AI feature is slow and expensive for one reason”
-- Number + insight: “3 reasons multi-agent systems fail in production”
-- Hard truth: “AI-generated code is creating more technical debt than it’s saving”
+## Content Rules
+- Follow the 4-step formula
+- Prioritize current tech trends: Agentic AI, AI-native development, multi-agent systems, AI for software engineering, tiny teams + AI, context engineering
+- Use `08-Visual-Generation.md` for the visual generation prompt and design rules
+- Follow the design rules (1080×1350, clean, minimal text, high contrast)
+- Present both text and visual together for approval
+
+## Profile
+- Use `07-profile-optimization.md` when reviewing or updating the profile
+- Keep the profile clear, outcome-focused, and natural
+
+## Account Health
+- Use `05-account-health.md` for weekly SSI and account health checks
+- Keep pending connection requests clean
+
+## Scoring
+- Use the scoring system in `06-scoring-and-rules.md`
+- Only act on items scoring 7 or higher
+- Include scores in the end-of-session batch
+
+## End of Session
+Always show:
+- What was checked
+- What was drafted (with scores where relevant)
+- Progress against daily goals (comments + connections)
+- Anything skipped and why
+
+Wait for explicit user approval before anything is sent or published.
