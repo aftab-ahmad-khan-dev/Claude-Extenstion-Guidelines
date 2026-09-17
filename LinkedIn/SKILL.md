@@ -50,5 +50,5 @@ Always show:
 - What was checked
 - What was drafted (with scores where relevant)
 - Anything skipped and why
-
+- It should be shown in table format for better readability
 Wait for explicit user approval before anything is sent or published.
